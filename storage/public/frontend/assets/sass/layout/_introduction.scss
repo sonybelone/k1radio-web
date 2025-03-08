@@ -1,0 +1,78 @@
+.banner-section {
+    position: relative;
+    padding-top: 290px;
+    padding-bottom: 180px;
+    overflow: hidden;
+    @media only screen and (max-width: 575px) {
+      padding-top: 200px;
+      padding-bottom: 180px;
+    }
+    .banner-content{
+        text-align: center;
+        .title{
+            color: $white;
+        }
+        .sub-title{
+            color: $white;
+            font-size: 17px;
+        }
+        .banner-btn{
+            padding-top: 40px;
+            a{
+                padding: 15px 25px;
+                font-size: 16px;
+                text-transform: uppercase;
+                i{
+                    position: relative;
+                    top: 2px;
+                    font-size: 20px;
+                    margin-right: 8px;
+                }
+                @media only screen and (max-width: 575px) {
+                  font-size: 14px;
+                  padding: 10px 20px;
+                }
+            }
+        }
+    }
+}
+.banner-slider {
+    position: relative;
+    overflow: hidden;
+  }
+  .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction{
+    bottom: 30px;
+  }
+  .banner-slider .swiper-slide-active .banner-btn {
+    animation: fadeInUp 1s;
+  }
+  .banner-slider .slider-prev, .banner-slider .slider-next {
+    position: absolute;
+    top: 40%;
+    left: -100px;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background-color: $base--color;
+    color: $white;
+    border-radius: 50%;
+    font-size: 16px;
+    z-index: 9;
+  }
+  .banner-slider .slider-prev:hover, .banner-slider .slider-next:hover {
+    background-color: $base--color;
+  }
+  .banner-slider .slider-next {
+    left: auto;
+    right: -100px;
+    margin-left: 0;
+    border-radius: 50%;
+  }
+  .banner-slider:hover .slider-prev {
+    left: 20px;
+  }
+  .banner-slider:hover .slider-next {
+    right: 20px;
+  }
+  
