@@ -1,0 +1,720 @@
+Key,en,hi,ar,es
+Dashboard,Dashboard,डैशबोर्ड,لوحة القيادة,Panel
+Language,Language,भाषा,لغة,Idioma
+Information,Information,जानकारी,معلومة,Información
+Language Information,Language Information,भाषा संबंधी जानकारी,معلومات اللغة,Información de idioma
+Language Manager,Language Manager,भाषा प्रबंधक,مدير اللغة,Administrador de idiomas
+Language created successfully!,Language created successfully!,भाषा सफलतापूर्वक बनाई गई!,تم إنشاء اللغة بنجاح!,¡Idioma creado exitosamente!
+User dashboard data fetch successfully!,User dashboard data fetch successfully!,उपयोगकर्ता डैशबोर्ड डेटा सफलतापूर्वक प्राप्त हुआ!,تم جلب بيانات لوحة تحكم المستخدم بنجاح!,¡Los datos del panel de usuario se recuperaron correctamente!
+Something went wrong! Please try again,Something went wrong! Please try again,कुछ गलत हो गया! कृपया पुन: प्रयास करें,هناك خطأ ما! حاول مرة اخرى,¡Algo salió mal! Inténtalo de nuevo
+Logout success!,Logout success!,लॉगआउट सफलता!,نجاح تسجيل الخروج!,¡Cerrar sesión exitosamente!
+active,active,सक्रिय,نشيط,activo
+Setup Section,Setup Section,सेटअप अनुभाग,قسم الإعداد,Sección de configuración
+Tags,Tags,टैग,العلامات,Etiquetas
+submit,submit,जमा करना,يُقدِّم,entregar
+Update,Update,अद्यतन,تحديث,Actualizar
+Daily Schedules,Daily Schedules,दैनिक शैड्यूल,جداول اليومية,Horarios diarios
+Schedule Edit,Schedule Edit,शेड्यूल संपादित करें,جدولة التحرير,Editar horario
+Banner Section,Banner Section,बैनर अनुभाग,قسم البانر,Sección de pancartas
+About Section,About Section,अनुभाग के बारे में,حول القسم,Acerca de la sección
+Contact Section,Contact Section,संपर्क अनुभाग,قسم الاتصال,Sección de contacto
+Team Section,Team Section,टीम अनुभाग,قسم الفريق,Sección de equipo
+Video Section,Video Section,वीडियो अनुभाग,قسم الفيديو,Sección de Vídeo
+Gallery Section,Gallery Section,गैलरी अनुभाग,قسم المعرض,Sección de galería
+Testimonial Section,Testimonial Section,प्रशंसापत्र अनुभाग,قسم الشهادة,Sección de testimonios
+Setup Announcement Category,Setup Announcement Category,सेटअप घोषणा श्रेणी,فئة إعلان الإعداد,Categoría de anuncio de configuración
+Announcement Section,Announcement Section,घोषणा अनुभाग,قسم الإعلان,Sección de anuncios
+Announcement Edit,Announcement Edit,घोषणा संपादित करें,تحرير الإعلان,Anuncio Editar
+Footer Section,Footer Section,पाद अनुभाग,قسم التذييل,Sección de pie de página
+Auth Section,Auth Section,प्रामाणिक अनुभाग,قسم المصادقة,Sección de autenticación
+Category,Category,वर्ग,فئة,Categoría
+label,label,लेबल,ملصق,etiqueta
+Name,Name,नाम,اسم,Nombre
+Description,Description,विवरण,وصف,Descripción
+Image,Image,छवि,صورة,Imagen
+Title,Title,शीर्षक,عنوان,Título
+Defaults,Defaults,चूक,الافتراضيات,Valores predeterminados
+Contact Messages,Contact Messages,संपर्क संदेश,رسائل الاتصال,Mensajes de contacto
+Subscribers,Subscribers,ग्राहकों,مشتركين,Suscriptores
+Schedules,Schedules,अनुसूचियों,جداول,Horarios
+Schedule Days,Schedule Days,दिन निर्धारित करें,أيام الجدول الزمني,Programar días
+Interface Panel,Interface Panel,इंटरफ़ेस पैनल,لوحة الواجهة,Panel de interfaz
+User Care,User Care,उपयोगकर्ता देखभाल,رعاية المستخدم,Atención al usuario
+Active Users,Active Users,सक्रिय उपयोगकर्ता,المستخدمين النشطين,Usuarios activos
+Email Unverified,Email Unverified,ईमेल असत्यापित,لم يتم التحقق من البريد الإلكتروني,Correo electrónico no verificado
+All Users,All Users,सभी उपयोगकर्ता,جميع المستخدمين,Todos los usuarios
+Email to Users,Email to Users,उपयोगकर्ताओं को ईमेल करें,البريد الإلكتروني للمستخدمين,Correo electrónico a los usuarios
+Banned Users,Banned Users,प्रतिबंधित उपयोगकर्ता,المستخدمون المحظورون,Usuarios prohibidos
+Admin Care,Admin Care,व्यवस्थापक देखभाल,رعاية المشرف,Atención administrativa
+All Admin,All Admin,सभी व्यवस्थापक,كل المشرف,Todos los administradores
+Admin Role,Admin Role,व्यवस्थापक भूमिका,دور المشرف,Rol de administrador
+Role Permission,Role Permission,भूमिका की अनुमति,إذن الدور,Permiso de rol
+Email to Admin,Email to Admin,व्यवस्थापक को ईमेल करें,البريد الإلكتروني إلى المشرف,Enviar correo electrónico al administrador
+Settings,Settings,समायोजन,إعدادات,Ajustes
+Web Settings,Web Settings,वेब सेटिंग्स,إعدادات الويب,Configuración web
+Basic Settings,Basic Settings,मूल सेटिंग्स,الإعدادات الأساسية,Ajustes básicos
+Image Assets,Image Assets,छवि संपत्ति,أصول الصورة,Recursos de imagen
+App Settings,App Settings,एप्लिकेशन सेटिंग,إعدادات التطبيقات,Ajustes de Aplicacion
+Splash Screen,Splash Screen,स्प्लैश स्क्रीन,شاشة البداية,Pantalla de bienvenida
+Onboard Screen,Onboard Screen,ऑनबोर्ड स्क्रीन,شاشة على متن الطائرة,Pantalla integrada
+App Urls,App Urls,ऐप यूआरएल,عناوين URL للتطبيق,URL de aplicaciones
+Languages,Languages,बोली,اللغات,Idiomas
+Verification Center,Verification Center,सत्यापन केंद्र,مركز التحقق,Centro de verificación
+Setup Email,Setup Email,सेटअप ईमेल,إعداد البريد الإلكتروني,Configurar correo electrónico
+Email Method,Email Method,ईमेल विधि,طريقة البريد الإلكتروني,Método de correo electrónico
+Setup Web Content,Setup Web Content,वेब सामग्री सेटअप करें,إعداد محتوى الويب,Configurar contenido web
+Opps! User doesn't exists,Opps! User doesn't exists,उफ़! उपयोगकर्ता मौजूद नहीं है,انتبه! المستخدم غير موجود,¡Ups! El usuario no existe
+Setup Pages,Setup Pages,पेज सेटअप करें,صفحات الإعداد,Páginas de configuración
+Useful Links,Useful Links,उपयोगी कड़ियां,روابط مفيدة,Enlaces útiles
+Notification,Notification,अधिसूचना,إشعار,Notificación
+Push Notification,Push Notification,सर्वर पुश नोटीफिकेशन,دفع الإخطار,Notificación de inserción
+Setup Notification,Setup Notification,सेटअप अधिसूचना,إشعار الإعداد,Notificación de configuración
+Send Notification,Send Notification,अधिसूचना भेजें,إرسال الإخطار,Enviar notificación
+Bonus,Bonus,बक्शीश,علاوة,Prima
+GDPR Cookie,GDPR Cookie,जीडीपीआर कुकी,ملف تعريف الارتباط الناتج عن اللائحة العامة لحماية البيانات,Cookie RGPD
+Server Info,Server Info,सर्वर जानकारी,معلومات الخادم,Información del servidor
+Clear Cache,Clear Cache,कैश को साफ़ करें,مسح ذاكرة التخزين المؤقت,Limpiar cache
+Verification code resend successfully!,Verification code resend successfully!,सत्यापन कोड सफलतापूर्वक पुनः भेजा गया!,تم إعادة إرسال رمز التحقق بنجاح!,¡El código de verificación se reenvía exitosamente!
+token,token,टोकन,رمز مميز,simbólico
+Verification code sended to your email address,Verification code sended to your email address,सत्यापन कोड आपके ईमेल पते पर भेजा गया,تم إرسال رمز التحقق إلى عنوان بريدك الإلكتروني,Código de verificación enviado a su dirección de correo electrónico
+Verification Otp is Invalid,Verification Otp is Invalid,सत्यापन ओटीपी अमान्य है,التحقق من Otp غير صالح,La verificación OTP no es válida
+OTP successfully verified!,OTP successfully verified!,ओटीपी सफलतापूर्वक सत्यापित!,تم التحقق من كلمة مرور OTP بنجاح!,¡OTP verificada exitosamente!
+OTP resend success,OTP resend success,ओटीपी पुनः भेजने में सफलता,تم إعادة إرسال OTP بنجاح,Reenvío OTP exitoso
+Password reset success,Password reset success,पासवर्ड रीसेट सफल,نجاح إعادة تعيين كلمة المرور,Restablecimiento de contraseña exitoso
+User Successfully Logged In,User Successfully Logged In,उपयोगकर्ता सफलतापूर्वक लॉग इन हुआ,تم تسجيل دخول المستخدم بنجاح,El usuario inició sesión correctamente
+User already exists!,User already exists!,उपयोगकर्ता पहले से मौजूद है!,المستخدم موجود اصلا!,¡El usuario ya existe!
+Registration failed! Please try again,Registration failed! Please try again,पंजीकरण विफल रहा! कृपया पुन: प्रयास करें,فشل في التسجيل! حاول مرة اخرى,¡Registro fallido! Inténtalo de nuevo
+Failed to fetch user information. Please try again,Failed to fetch user information. Please try again,उपयोगकर्ता जानकारी लाने में विफल. कृपया पुन: प्रयास करें,فشل في جلب معلومات المستخدم. حاول مرة اخرى,No se pudo recuperar la información del usuario. Inténtalo de nuevo
+Failed to generate user token! Please try again,Failed to generate user token! Please try again,उपयोगकर्ता टोकन जनरेट करने में विफल! कृपया पुन: प्रयास करें,فشل في إنشاء الرمز المميز للمستخدم! حاول مرة اخرى,¡No se pudo generar el token de usuario! Inténtalo de nuevo
+User successfully registered,User successfully registered,उपयोगकर्ता सफलतापूर्वक पंजीकृत हो गया,تم تسجيل المستخدم بنجاح,Usuario registrado exitosamente
+User Profile data fetch successfully!,User Profile data fetch successfully!,उपयोगकर्ता प्रोफ़ाइल डेटा सफलतापूर्वक लाया गया!,تم جلب بيانات ملف تعريف المستخدم بنجاح!,¡Los datos del perfil de usuario se obtuvieron correctamente!
+error,error,गलती,خطأ,error
+Profile data updated successfully!,Profile data updated successfully!,प्रोफ़ाइल डेटा सफलतापूर्वक अपडेट किया गया!,تم تحديث بيانات الملف الشخصي بنجاح!,¡Datos de perfil actualizados exitosamente!
+Password changed successfully!,Password changed successfully!,पासवर्ड सफलतापूर्वक बदला गया!,تم تغيير الرقم السري بنجاح!,¡Contraseña cambiada con éxito!
+Language Name,Language Name,भाषा का नाम,اسم اللغة,Nombre del lenguaje
+Language Code,Language Code,भाषा कोड,رمز اللغة,Código de lenguaje
+User Status,User Status,उपयोगकर्ता की स्थिति,حالة المستخدم,Estatus de usuario
+Payment Required,Payment Required,भुगतान की आवश्यकता है,الدفع مطلوب,pago requerido
+Too Many Requests,Too Many Requests,बहुत सारे अनुरोध,طلبات كثيرة جدا,Demasiadas solicitudes
+Service Unavailable,Service Unavailable,सेवा अनुपलब्ध है,الخدمة غير متوفرة,Servicio No Disponible
+DOWNLOAD APP,DOWNLOAD APP,ऐप डाउनलोड करें,تحميل التطبيق,DESCARGAR APLICACIÓN
+NEWSLETTER,NEWSLETTER,न्यूजलैटर,النشرة الإخبارية,BOLETIN INFORMATIVO
+SUBSCRIBE,SUBSCRIBE,सदस्यता लें,يشترك,SUSCRIBIR
+You Have,You Have,आपके पास,لديك,Tienes
+Please Enter the Code,Please Enter the Code,कृपया कोड दर्ज करें,الرجاء إدخال الرمز,Por favor ingrese el código
+next,next,अगला,التالي,próximo
+navigation,navigation,मार्गदर्शन,ملاحة,navegación
+Showing,Showing,दिखा,عرض,Demostración
+to,to,को,ل,a
+of,of,का,ل,de
+results,results,परिणाम,نتائج,resultados
+prev,prev,पिछला,السابق,anterior
+Setup Schedule Days,Setup Schedule Days,सेटअप शेड्यूल दिन,أيام جدول الإعداد,Días de programación de configuración
+Admin Roles,Admin Roles,व्यवस्थापक भूमिकाएँ,أدوار المشرف,Funciones de administrador
+Permission Group,Permission Group,अनुमति समूह,مجموعة الأذونات,Grupo de permisos
+Server Information,Server Information,सर्वर जानकारी,معلومات الخادم,información del servidor
+Default Template,Default Template,डिफ़ॉल्ट टेम्पलेट,القالب الافتراضي,Plantilla predeterminada
+Email Unverified Users,Email Unverified Users,असत्यापित उपयोगकर्ताओं को ईमेल करें,إرسال بريد إلكتروني للمستخدمين الذين لم يتم التحقق منهم,Enviar correo electrónico a usuarios no verificados
+User Details,User Details,उपयोगकर्ता विवरण,بيانات المستخدم,Detalles de usuario
+Login Logs,Login Logs,लॉगइन लॉग्स,سجلات تسجيل الدخول,Registros de inicio de sesión
+User Email Logs,User Email Logs,उपयोगकर्ता ईमेल लॉग,سجلات البريد الإلكتروني للمستخدم,Registros de correo electrónico del usuario
+Language data fetch successfully!,Language data fetch successfully!,भाषा डेटा सफलतापूर्वक लाया गया!,تم جلب بيانات اللغة بنجاح!,¡Los datos de idioma se obtuvieron correctamente!
+Access Denied! Unauthenticated,Access Denied! Unauthenticated,पहुंच अस्वीकृत! अपुष्ट,تم الرفض! غير مصادق عليه,¡Acceso denegado! No autenticado
+Request token is invalid,Request token is invalid,अनुरोध टोकन अमान्य है,رمز الطلب غير صالح,El token de solicitud no es válido
+"Invalid OTP, Please try again","Invalid OTP, Please try again","अमान्य ओटीपी, कृपया पुनः प्रयास करें",كلمة المرور لمرة واحدة (OTP) غير صالحة، يرجى المحاولة مرة أخرى,"OTP no válida, inténtelo de nuevo"
+Session expired. Please try again,Session expired. Please try again,सत्र समाप्त हुआ। कृपया पुन: प्रयास करें,انتهت الجلسة. حاول مرة اخرى,Sesión expirada. Inténtalo de nuevo
+Account Successfully verified,Account Successfully verified,खाता सफलतापूर्वक सत्यापित,تم التحقق من الحساب بنجاح,Cuenta verificada exitosamente
+Your account is temporary banded. Please contact with system admin,Your account is temporary banded. Please contact with system admin,आपका खाता अस्थायी रूप से बंद कर दिया गया है. कृपया सिस्टम एडमिन से संपर्क करें,حسابك مؤقت. يرجى الاتصال بمسؤول النظام,Su cuenta está bloqueada temporalmente. Por favor contacte con el administrador del sistema
+Message Details,Message Details,संदेश विवरण,تفاصيل الرسالة,Detalles del mensaje
+Admin | Login,Admin | Login,एडमिन | लॉग इन करें,المشرف | تسجيل الدخول,Administrador | Acceso
+Enter your account email address or username,Enter your account email address or username,अपना खाता ईमेल पता या उपयोगकर्ता नाम दर्ज करें,أدخل عنوان البريد الإلكتروني الخاص بحسابك أو اسم المستخدم,Ingrese la dirección de correo electrónico o el nombre de usuario de su cuenta
+Username OR Email Address,Username OR Email Address,उपयोगकर्ता का नाम या ईमेल पता,اسم المستخدم أو البريد الالكتروني,Nombre de usuario o dirección de correo electrónico
+Send,Send,भेजना,يرسل,Enviar
+Reset,Reset,रीसेट,إعادة ضبط,Reiniciar
+Password,Password,पासवर्ड,كلمة المرور,Contraseña
+New Password,New Password,नया पासवर्ड,كلمة المرور الجديدة,Nueva contraseña
+Confirm Password,Confirm Password,पासवर्ड की पुष्टि कीजिये,تأكيد كلمة المرور,confirmar Contraseña
+Login,Login,लॉग इन करें,تسجيل الدخول,Acceso
+Reset Password,Reset Password,पासवर्ड रीसेट,إعادة تعيين كلمة المرور,Restablecer la contraseña
+Welcome To,Welcome To,आपका स्वागत है,مرحبا بك في,Bienvenido a
+Admin Panel,Admin Panel,व्यवस्थापक पैनल,لوحة الادارة,Panel de administrador
+Email Address,Email Address,मेल पता,عنوان البريد الإلكتروني,Dirección de correo electrónico
+Forgot Password,Forgot Password,पासवर्ड भूल गए,هل نسيت كلمة السر,Has olvidado tu contraseña
+No data found!,No data found!,डाटा प्राप्त नहीं हुआ!,لاتوجد بيانات!,¡Datos no encontrados!
+Full Name,Full Name,पूरा नाम,الاسم الكامل,Nombre completo
+Username,Username,उपयोगकर्ता नाम,اسم المستخدم,Nombre de usuario
+Email,Email,ईमेल,بريد إلكتروني,Correo electrónico
+Phone,Phone,फ़ोन,هاتف,Teléfono
+Role,Role,भूमिका,دور,Role
+Status,Status,स्थिति,حالة,Estado
+Category Name,Category Name,श्रेणी नाम,اسم التصنيف,nombre de la categoría
+Created Time,Created Time,निर्मित समय,وقت الإنشاء,Hora de creación
+Add Language,Add Language,भाषा जोड़ें,إضافة لغة,Agregar idioma
+button,button,बटन,زر,botón
+Cancel,Cancel,रद्द करना,يلغي,Cancelar
+Add,Add,जोड़ना,يضيف,Agregar
+Edit Language,Edit Language,भाषा संपादित करें,تحرير اللغة,Editar idioma
+Language File,Language File,भाषा फ़ाइल,ملف اللغة,Archivo de idioma
+Add New Day,Add New Day,नया दिन जोड़ें,أضف يوم جديد,Agregar nuevo día
+Day Name,Day Name,दिन का नाम,اسم اليوم,Nombre del día
+Add Schedule,Add Schedule,शेड्यूल जोड़ें,إضافة الجدول الزمني,Agregar horario
+Day,Day,दिन,يوم,Día
+Select Day,Select Day,दिन चुनें,اختر اليوم,Seleccionar día
+Event Name,Event Name,घटना नाम,اسم الحدث,Nombre del evento
+Host,Host,मेज़बान,يستضيف,Anfitrión
+Chat Link,Chat Link,चैट लिंक,رابط الدردشة,Enlace de chat
+Radio Link,Radio Link,रेडियो लिंक,رابط الراديو,Enlace de radio
+Start Time,Start Time,समय शुरू,وقت البدء,Hora de inicio
+End Time,End Time,अंत समय,وقت النهاية,Hora de finalización
+Edit Day,Edit Day,दिन संपादित करें,تحرير اليوم,Editar día
+Add About Item,Add About Item,आइटम के बारे में जोड़ें,أضف حول العنصر,Agregar sobre el artículo
+Item Title,Item Title,मद शीर्षक,عنوان البند,Título del artículo
+Item Description,Item Description,आइटम विवरण,وصف السلعة,Descripción del Artículo
+Item Section Icon,Item Section Icon,आइटम अनुभाग चिह्न,رمز قسم العنصر,Icono de sección de artículo
+Add Announcement,Add Announcement,घोषणा जोड़ें,إضافة إعلان,Agregar anuncio
+Select Category,Select Category,श्रेणी चुनना,اختر الفئة,selecciona una categoría
+Select Announcement Tags,Select Announcement Tags,घोषणा टैग चुनें,حدد علامات الإعلان,Seleccionar etiquetas de anuncio
+Add Banner,Add Banner,बैनर जोड़ें,إضافة لافتة,Agregar banner
+Button Name,Button Name,बटन का नाम,اسم الزر,Nombre del botón
+Button Link,Button Link,बटन लिंक,رابط الزر,Enlace de botón
+Add Brand,Add Brand,ब्रांड जोड़ें,أضف علامة تجارية,Agregar marca
+Add Gallery Item,Add Gallery Item,गैलरी आइटम जोड़ें,إضافة عنصر المعرض,Agregar elemento de galería
+Add How We Do Item,Add How We Do Item,हम कैसे करते हैं आइटम जोड़ें,أضف كيف نفعل البند,Agregar artículo Cómo lo hacemos
+Add Social Icon,Add Social Icon,सामाजिक चिह्न जोड़ें,إضافة أيقونة الاجتماعية,Agregar ícono social
+Item Name,Item Name,आइटम नाम,اسم العنصر,Nombre del árticulo
+Item Link,Item Link,आइटम लिंक,رابط السلعة,Enlace del artículo
+Item Social Icon,Item Social Icon,आइटम सामाजिक चिह्न,رمز العنصر الاجتماعي,Icono social del artículo
+Add Team Item,Add Team Item,टीम आइटम जोड़ें,إضافة عنصر الفريق,Agregar elemento de equipo
+Item Designation,Item Designation,आइटम पदनाम,تسمية العنصر,Designación del artículo
+Social Links,Social Links,सामाजिक कड़ियाँ,روابط اجتماعية,vínculos sociales
+Icon,Icon,आइकन,أيقونة,Icono
+Link,Link,जोड़ना,وصلة,Enlace
+Add Testimonial Item,Add Testimonial Item,प्रशंसापत्र आइटम जोड़ें,إضافة عنصر الشهادة,Agregar artículo de testimonio
+Item Rating,Item Rating,आइटम रेटिंग,تقييم السلعة,Calificación del artículo
+Add Video Item,Add Video Item,वीडियो आइटम जोड़ें,إضافة عنصر فيديو,Agregar elemento de video
+Add Page,Add Page,पृष्ठ जोड़ें,إضافة صفحة,Añadir página
+Edit Page,Edit Page,संपादित पेज,تعديل الصفحة,Editar página
+Add Admin,Add Admin,व्यवस्थापक जोड़ें,إضافة المشرف,Agregar administrador
+Admin Profile Image,Admin Profile Image,व्यवस्थापक प्रोफ़ाइल छवि,صورة الملف الشخصي للمشرف,Imagen de perfil de administrador
+First Name,First Name,पहला नाम,الاسم الأول,Nombre de pila
+Last Name,Last Name,उपनाम,اسم العائلة,Apellido
+Add New Category,Add New Category,नई श्रेणी जोड़ें,إضافة فئة جديدة,Añadir nueva categoria
+Add New Screen,Add New Screen,नई स्क्रीन जोड़ें,إضافة شاشة جديدة,Agregar nueva pantalla
+Add New Permission,Add New Permission,नई अनुमति जोड़ें,إضافة إذن جديد,Agregar nuevo permiso
+Permission Name,Permission Name,अनुमति का नाम,اسم الإذن,Nombre del permiso
+Assign Permission Page/Task,Assign Permission Page/Task,अनुमति पृष्ठ/कार्य निर्दिष्ट करें,تعيين صفحة/مهمة إذن,Asignar página/tarea de permiso
+Edit Permission,Edit Permission,अनुमति संपादित करें,تحرير إذن,Editar permiso
+Add New Role,Add New Role,नई भूमिका जोड़ें,إضافة دور جديد,Agregar nuevo rol
+Role Name,Role Name,भूमिका का नाम,اسم الدور,Nombre de rol
+Edit Role,Edit Role,भूमिका संपादित करें,تحرير الدور,Editar rol
+Edit Admin,Edit Admin,व्यवस्थापक संपादित करें,تحرير المشرف,Editar administrador
+Edit Category,Edit Category,श्रेणी संपादित करें,تحرير الفئة,Editar categoria
+Edit Screen,Edit Screen,स्क्रीन संपादित करें,تحرير الشاشة,Editar pantalla
+Update Extension,Update Extension,एक्सटेंशन अपडेट करें,تحديث التمديد,Actualizar extensión
+Send Email,Send Email,ईमेल भेजें,ارسل بريد الكتروني,Enviar correo electrónico
+Close,Close,बंद करना,يغلق,Cerca
+Send Test Mail,Send Test Mail,परीक्षण मेल भेजें,إرسال بريد الاختبار,Enviar correo de prueba
+"This ticket is solved, you can","This ticket is solved, you can","यह टिकट हल हो गया है, आप कर सकते हैं",تم حل هذه التذكرة، يمكنك,"Este ticket está solucionado, puedes"
+Pending Tickets,Pending Tickets,लंबित टिकट,التذاكر المعلقة,Entradas pendientes
+View All,View All,सभी को देखें,عرض الكل,Ver todo
+Active Tickets,Active Tickets,सक्रिय टिकट,التذاكر النشطة,Entradas activas
+Solved Tickets,Solved Tickets,हल टिकट,تذاكر محلولة,Entradas resueltas
+All Tickets,All Tickets,सभी टिकट,جميع التذاكر,Todas las entradas
+Action,Action,कार्रवाई,فعل,Acción
+Mark as Solved,Mark as Solved,हल हो गया के रूप में चिह्नित करें,"وضع علامة ""محلول"".",Marcar como resuelto
+Support Details,Support Details,समर्थन विवरण,تفاصيل الدعم,Detalles de soporte
+Attachments,Attachments,संलग्नक,المرفقات,Archivos adjuntos
+Admin,Admin,व्यवस्थापक,مسؤل,Administración
+Developed by,Developed by,द्वारा विकसित,طورت بواسطة,Desarrollado por
+Layout Mode,Layout Mode,लेआउट मोड,وضع التخطيط,Modo de diseño
+Dark Mode,Dark Mode,डार्क मोड,الوضع المظلم,Modo oscuro
+Topbar Color,Topbar Color,टॉपबार रंग,لون الشريط العلوي,Color de la barra superior
+Light Mode,Light Mode,लाइट मोड,وضع الضوء,Modo de luz
+Sidebar Color,Sidebar Color,साइडबार का रंग,لون الشريط الجانبي,Color de la barra lateral
+Min Sidebar Color,Min Sidebar Color,न्यूनतम साइडबार रंग,الحد الأدنى للون الشريط الجانبي,Color mínimo de la barra lateral
+Direction,Direction,दिशा,اتجاه,Dirección
+RTL Support,RTL Support,आरटीएल समर्थन,دعم RTL,Soporte RTL
+Reset To Default,Reset To Default,वितथ पर ले जाएं,إعادة تعيين إلى الافتراضي,Restablecen a los predeterminados
+Clear All,Clear All,सभी साफ करें,امسح الكل,Limpiar todo
+No new notification found!,No new notification found!,कोई नई अधिसूचना नहीं मिली!,لم يتم العثور على إشعار جديد!,¡No se encontró ninguna notificación nueva!
+Admin Profile,Admin Profile,व्यवस्थापक प्रोफ़ाइल,الملف الشخصي للمسؤول,Perfil de administrador
+Change Password,Change Password,पासवर्ड बदलें,تغيير كلمة المرور,Cambiar la contraseña
+text,text,मूलपाठ,نص,texto
+Add New,Add New,नया जोड़ो,اضف جديد,Agregar nuevo
+SL,SL,क्र,إس إل,SL
+URI,URI,यूआरआई,URI,URI
+All Admin Roles,All Admin Roles,सभी व्यवस्थापक भूमिकाएँ,جميع أدوار المشرف,Todas las funciones de administrador
+Assign Admin,Assign Admin,व्यवस्थापक नियुक्त करें,تعيين المشرف,Asignar administrador
+All Permissions,All Permissions,सभी अनुमतियाँ,جميع الأذونات,Todos los permisos
+Details,Details,विवरण,تفاصيل,Detalles
+App Version,App Version,एप्लिकेशन वेरीज़न,نسخة التطبيق,Version de aplicacion
+Android App URL,Android App URL,एंड्रॉइड ऐप यूआरएल,عنوان URL لتطبيق Android,URL de la aplicación de Android
+iOS App URL,iOS App URL,आईओएस ऐप यूआरएल,عنوان URL لتطبيق iOS,URL de la aplicación iOS
+Messages,Messages,संदेशों,رسائل,Mensajes
+Reply,Reply,जवाब,رد,Responder
+Not Replied,Not Replied,उत्तर नहीं दिया गया,لم يتم الرد,No respondido
+Replied,Replied,उत्तर दिया,أجاب,Respondió
+Reply Message,Reply Message,प्रतिक्रिया संदेश,رسالة الرد,Mensaje de respuesta
+Sent,Sent,भेजा,مرسل,Enviado
+Policy Link,Policy Link*,नीति लिंक*,رابط السياسة*,Enlace de política*
+Total Users,Total Users,कुल उपयोगकर्ता,إجمالي المستخدمين,Usuarios totales
+Total,Total,कुल,المجموع,Total
+Verified Users,Verified Users,सत्यापित उपयोगकर्ता,المستخدمون الذين تم التحقق منهم,Usuarios verificados
+Total Schedules,Total Schedules,कुल अनुसूचियाँ,إجمالي الجداول,Horarios totales
+Active Schedules,Active Schedules,सक्रिय अनुसूचियाँ,الجداول الزمنية النشطة,Horarios activos
+Banned Schedules,Banned Schedules,प्रतिबंधित अनुसूचियां,المواعيد المحظورة,Horarios prohibidos
+Total Videos,Total Videos,कुल वीडियो,إجمالي مقاطع الفيديو,Vídeos totales
+Total Announcements,Total Announcements,कुल घोषणाएँ,إجمالي الإعلانات,Anuncios totales
+Active Announcements,Active Announcements,सक्रिय घोषणाएँ,الإعلانات النشطة,Anuncios activos
+Banned Announcements,Banned Announcements,प्रतिबंधित घोषणाएँ,اعلانات محظورة,Anuncios prohibidos
+Total Subscribers,Total Subscribers,कुल सदस्य,إجمالي المشتركين,Suscriptores totales
+This Month,This Month,इस महीने,هذا الشهر,Este mes
+This Year,This Year,इस साल,هذا العام,Este año
+Total Messages,Total Messages,कुल संदेश,إجمالي الرسائل,Mensajes totales
+Replied Messages,Replied Messages,उत्तर दिए गए संदेश,تم الرد على الرسائل,Mensajes respondidos
+Unanswered Messages,Unanswered Messages,अनुत्तरित संदेश,رسائل لم يتم الرد عليها,Mensajes sin respuesta
+Total Teams,Total Teams,कुल टीमें,مجموع الفرق,Equipos totales
+Extensions,Extensions,एक्सटेंशन,ملحقات,Extensiones
+Instructions,Instructions,निर्देश,تعليمات,Instrucciones
+Import,Import,आयात,يستورد,Importar
+Download,Download,डाउनलोड करना,تحميل,Descargar
+Code,Code,कोड,شفرة,Código
+Language Keywords of English,Language Keywords of English,अंग्रेजी के भाषाई कीवर्ड,الكلمات الرئيسية للغة الإنجليزية,Palabras clave del idioma inglés
+Password Change,Password Change,पासवर्ड परिवर्तन,تغيير كلمة السر,Cambio de contraseña
+Save & Change,Save & Change,परिवर्तन को संग्रहित करें,حفظ وتغيير,Guardar cambios
+Country,Country,देश,دولة,País
+State,State,राज्य,ولاية,Estado
+City,City,शहर,مدينة,Ciudad
+Browser Push Notification Configuration,Browser Push Notification Configuration,ब्राउज़र पुश अधिसूचना कॉन्फ़िगरेशन,تكوين إشعارات المتصفح,Configuración de notificaciones push del navegador
+Method,Method,तरीका,طريقة,Método
+Instance ID,Instance ID,उदाहरण आईडी,معرف المثيل,ID de instancia
+Primary key,Primary key,प्राथमिक कुंजी,المفتاح الأساسي,Clave primaria
+Broadcasting/ Internal Notification Configuration,Broadcasting/ Internal Notification Configuration,प्रसारण/आंतरिक अधिसूचना विन्यास,البث/تكوين الإخطار الداخلي,Configuración de transmisión/notificación interna
+APP ID,APP ID,एपीपी आईडी,معرف التطبيق,ID DE APLICACIÓN
+Secret key,Secret key,गुप्त कुंजी,المفتاح السري,Llave secreta
+Cluster,Cluster,झुंड,تَجَمَّع,Grupo
+Notification Body,Notification Body,अधिसूचना निकाय,هيئة الإخطار,Organismo de notificación
+Latest Notifications,Latest Notifications,नवीनतम सूचनाएं,أحدث الإخطارات,Últimas notificaciones
+Body,Body,शरीर,جسم,Cuerpo
+Setup Daily Schedules,Setup Daily Schedules,दैनिक कार्यक्रम सेटअप करें,إعداد الجداول اليومية,Configurar horarios diarios
+Section Title,Section Title,अनुभाग शीर्षक,عنوان القسم,Sección de título
+Section Icon,Section Icon,अनुभाग चिह्न,أيقونة القسم,Icono de sección
+Live,Live,रहना,يعيش,Vivir
+Add Days,Add Days,दिन जोड़ें,إضافة أيام,Agregar días
+Version,Version,संस्करण,إصدار,Versión
+App Name,App Name,एप्लिकेशन का नाम,اسم التطبيق,Nombre de la aplicación
+App Environment,App Environment,ऐप पर्यावरण,بيئة التطبيق,Entorno de aplicación
+App Debug,App Debug,ऐप डीबग,تصحيح أخطاء التطبيق,Depuración de aplicaciones
+App Mode,App Mode,ऐप मोड,وضع التطبيق,Modo de aplicación
+Database Connection,Database Connection,डेटाबेस कनेक्शन,اتصال قاعدة البيانات,Conexión de base de datos
+Database Host,Database Host,डेटाबेस होस्ट,مضيف قاعدة البيانات,Host de base de datos
+Database Port,Database Port,डेटाबेस पोर्ट,منفذ قاعدة البيانات,Puerto de base de datos
+Database Name,Database Name,डेटाबेस का नाम,اسم قاعدة البيانات,Nombre de la base de datos
+Database Username,Database Username,डेटाबेस उपयोगकर्ता नाम,اسم مستخدم قاعدة البيانات,Nombre de usuario de la base de datos
+PHP Version,PHP Version,पीएचपी संस्करण,نسخة PHP,Versión PHP
+Laravel Version,Laravel Version,लारवेल संस्करण,نسخة لارافيل,Versión Laravel
+Server Software,Server Software,सर्वर सॉफ्टवेयर,برامج الخادم,Software de servidor
+Server IP Address,Server IP Address,सर्वर आईपी पता,عنوان IP للخادم,Dirección IP del servidor
+Server Protocol,Server Protocol,सर्वर प्रोटोकॉल,بروتوكول الخادم,Protocolo de servidor
+Timezone,Timezone,समय क्षेत्र,وحدة زمنية,Zona horaria
+Email Send Method,Email Send Method,ईमेल भेजने की विधि,طريقة إرسال البريد الإلكتروني,Método de envío de correo electrónico
+Send Mail,Send Mail,मेल भेजने,ارسل بريد,Enviar correo
+Port,Port,पत्तन,ميناء,Puerto
+Encryption,Encryption,कूटलेखन,التشفير,Cifrado
+Email Body,Email Body,ईमेल बॉडी,هيئة البريد الإلكتروني,Cuerpo del correo electronico
+Page Name,Page Name,पन्ने का नाम,اسم الصفحة,Nombre de la página
+Element,Element,तत्व,عنصر,Elemento
+Edit About Item,Edit About Item,आइटम के बारे में संपादित करें,تحرير حول العنصر,Editar sobre el artículo
+Announcement Category,Announcement Category,घोषणा श्रेणी,فئة الإعلان,Categoría de anuncio
+Add Category,Add Category,श्रेणी जोड़ना,إضافة فئة,añadir categoría
+Setup Announcement Section,Setup Announcement Section,सेटअप घोषणा अनुभाग,قسم إعلان الإعداد,Sección de anuncio de configuración
+Login Heading,Login Heading,लॉगिन शीर्षक,عنوان تسجيل الدخول,Iniciar sesión
+Login Sub Heading,Login Sub Heading,उपशीर्षक लॉगिन करें,تسجيل الدخول العنوان الفرعي,Subtítulo de inicio de sesión
+Register Heading,Register Heading,शीर्षक पंजीकृत करें,تسجيل العنوان,Registro Encabezado
+Register Sub Heading,Register Sub Heading,उपशीर्षक पंजीकृत करें,تسجيل العنوان الفرعي,Registrar subtítulo
+Forgot Heading,Forgot Heading,शीर्षक भूल गये,نسيت العنوان,Olvidé el rumbo
+Forgot Sub Heading,Forgot Sub Heading,उपशीर्षक भूल गये,نسيت العنوان الفرعي,Olvidé el subtítulo
+Edit Banner,Edit Banner,बैनर संपादित करें,تحرير لافتة,Editar banner
+Brand Section,Brand Section,ब्रांड अनुभाग,قسم العلامات التجارية,Sección de marca
+Edit Brand,Edit Brand,ब्रांड संपादित करें,تحرير العلامة التجارية,Editar marca
+Location Title,Location Title,स्थान शीर्षक,عنوان الموقع,Título de la ubicación
+Location,Location,जगह,موقع,Ubicación
+Call Title,Call Title,कॉल शीर्षक,عنوان المكالمة,Título de la llamada
+Office Hour,Office Hour,कार्य समय,ساعة المكتب,Hora de oficina
+Email Title,Email Title,ईमेल शीर्षक,عنوان البريد الإلكتروني,Título del correo electrónico
+Footer Text,Footer Text,फूटर टेक्स्ट,نص التذييل,Texto de pie de página
+Short Description,Short Description,संक्षिप्त वर्णन,وصف قصير,Breve descripción
+Mobile,Mobile,गतिमान,متحرك,Móvil
+Support,Support,सहायता,يدعم,Apoyo
+Newsletter Title,Newsletter Title,न्यूज़लैटर शीर्षक,عنوان النشرة الإخبارية,Título del boletín
+Edit Social Icon,Edit Social Icon,सामाजिक चिह्न संपादित करें,تحرير أيقونة الاجتماعية,Editar icono social
+Edit Gallery Item,Edit Gallery Item,गैलरी आइटम संपादित करें,تحرير عنصر المعرض,Editar elemento de la galería
+Edit How We Do,Edit How We Do,हम कैसे करते हैं संपादित करें,تحرير كيف نفعل,Editar cómo lo hacemos
+Designation,Designation,पद का नाम,تعيين,Designación
+Edit Team Item,Edit Team Item,टीम आइटम संपादित करें,تحرير عنصر الفريق,Editar elemento del equipo
+Rating,Rating,रेटिंग,تقييم,Clasificación
+Edit Testimonial Item,Edit Testimonial Item,प्रशंसापत्र आइटम संपादित करें,تحرير عنصر الشهادة,Editar artículo de testimonio
+Edit Video Item,Edit Video Item,वीडियो आइटम संपादित करें,تحرير عنصر الفيديو,Editar elemento de vídeo
+Created At,Created At,पर बनाया गया,أنشئت في,Creado en
+Support Chat,Support Chat,समर्थन चैट,دعم الدردشة,Chat de soporte
+Ticket ID,Ticket ID,टिकट आईडी,معرف التذكرة,Identificación de entradas
+Support Ticket,Support Ticket,समर्थन टिकट,بطاقة الدعم,Boleto de soporte
+All Ticket,All Ticket,सभी टिकट,جميع التذاكر,Todos los boletos
+User Overview,User Overview,उपयोगकर्ता अवलोकन,نظرة عامة على المستخدم,Descripción general del usuario
+Login as Member,Login as Member,सदस्य के रूप में लॉगिन करें,تسجيل الدخول كعضو,Iniciar sesión como miembro
+Email Logs,Email Logs,ईमेल लॉग्स,سجلات البريد الإلكتروني,Registros de correo electrónico
+Last Login,Last Login,आखरी लॉगइन,آخر تسجيل دخول,Último acceso
+Information of User,Information of User,उपयोगकर्ता की जानकारी,معلومات المستخدم,Información del Usuario
+Zip,Zip,ज़िप,أَزِيز,Cremallera
+User,User,उपयोगकर्ता,مستخدم,Usuario
+Select Users,Select Users,उपयोगकर्ता चुनें,حدد المستخدمين,Seleccionar usuarios
+all,all,सभी,الجميع,todo
+banned,banned,पर प्रतिबंध लगा दिया,محظور,prohibido
+User Login Logs,User Login Logs,उपयोगकर्ता लॉगिन लॉग,سجلات دخول المستخدم,Registros de inicio de sesión de usuario
+IP,IP,आई पी,الملكية الفكرية,IP
+MAC,MAC,मैक,ماك,MAC
+Browser,Browser,ब्राउज़र,المتصفح,Navegador
+OS,OS,ओएस,نظام التشغيل,SO
+Login at,Login at,पर लॉगइन करें,تسجيل الدخول في,Inicia sesión en
+Site Base Color,Site Base Color,साइट का आधार रंग,اللون الأساسي للموقع,Color base del sitio
+Site Secondary Color,Site Secondary Color,साइट द्वितीयक रंग,اللون الثانوي للموقع,Color secundario del sitio
+Site Name,Site Name,जगह का नाम,اسم الموقع,Nombre del sitio
+Site Title,Site Title,घटनास्थल शीर्षक,عنوان الموقع,Título del sitio
+OTP Expiration,OTP Expiration,ओटीपी समाप्ति,انتهاء صلاحية OTP,Vencimiento de la OTP
+Seconds,Seconds,सेकंड,ثواني,Segundos
+Web Version,Web Version,वेब संस्करण,نسخة الويب,Versión Web
+Activation Settings,Activation Settings,सक्रियण सेटिंग्स,إعدادات التنشيط,Configuración de activación
+User Registration,User Registration,उपयोगकर्ता पंजीकरण,تسجيل المستخدم,registro de usuario
+Secure Password,Secure Password,सुरक्षित पासवर्ड,كلمة مرور آمنة,Contraseña segura
+Agree Policy,Agree Policy,सहमत नीति,الموافقة على السياسة,Política de acuerdo
+Force SSL,Force SSL,एसएसएल को बाध्य करें,فرض SSL,Forzar SSL
+Email Verification,Email Verification,ईमेल सत्यापन,تأكيد بواسطة البريد الالكتروني,verificacion de email
+Email Notification,Email Notification,ई - मेल अधिसूचना,إشعار البريد الإلكتروني,Notificación de correo electrónico
+Logo (Light Version),Logo (Light Version),लोगो (हल्का संस्करण),الشعار (النسخة الخفيفة),Logotipo (versión ligera)
+Logo (Dark Version),Logo (Dark Version),लोगो (डार्क संस्करण),الشعار (الإصدار الداكن),Logotipo (versión oscura)
+Favicon (Light Version),Favicon (Light Version),फ़ेविकॉन (लाइट संस्करण),الأيقونة المفضلة (الإصدار الخفيف),Favicon (versión ligera)
+Favicon (Dark Version),Favicon (Dark Version),फ़ेविकॉन (डार्क संस्करण),الأيقونة المفضلة (الإصدار الداكن),Favicon (versión oscura)
+Search Engine Optimization (SEO),Search Engine Optimization (SEO),खोज इंजन अनुकूलन (एसईओ),تحسين محركات البحث (SEO),Optimización de motores de búsqueda (SEO)
+Unauthorized,Unauthorized,अनधिकृत,غير مصرح,No autorizado
+Back To Home,Back To Home,घर वापिस जा रहा हूँ,العودة إلى المنزل,De vuelta a casa
+Forbidden,Forbidden,निषिद्ध,مُحرَّم,Prohibido
+Public,Public,जनता,عام,Público
+Categories,Categories,श्रेणियाँ,فئات,Categorías
+Read More,Read More,और पढ़ें,اقرأ أكثر,Leer más
+Recent Posts,Recent Posts,हाल के पोस्ट,المشاركات الاخيرة,Mensajes recientes
+Your Name,Your Name,आपका नाम,اسمك,Su nombre
+Subject,Subject,विषय,موضوع,Sujeto
+Your Email,Your Email,आपका ईमेल,بريدك الالكتروني,Tu correo electrónico
+Message,Message,संदेश,رسالة,Mensaje
+Send Message,Send Message,मेसेज भेजें,أرسل رسالة,Enviar mensaje
+Change,Change,परिवर्तन,يتغير,Cambiar
+Buffering,Buffering,बफ़र हो,التخزين المؤقت,Almacenamiento en búfer
+Chat with RJ,Chat with RJ,आरजे से चैट करें,الدردشة مع RJ,Chatea con RJ
+Live Now,Live Now,अब सीधा प्रसारण हो रहा है,عش الآن,Vive ahora
+Next Show,Next Show,अगला शो,العرض القادم,Próximo espectáculo
+Show Time,Show Time,शो टाइम,موعد العرض,Tiempo de la funcion
+Already Have An Account?,Already Have An Account?,क्या आपके पास पहले से एक खाता मौजूद है?,هل لديك حساب؟,¿Ya tienes una cuenta?
+Login Now,Login Now,अभी लॉगिन करें,تسجيل الدخول الآن,Inicia sesión ahora
+Don,Don,अगुआ,اِتَّشَح,Don
+Please check your email address to get the OTP (One time password).,Please check your email address to get the OTP (One time password).,ओटीपी (वन टाइम पासवर्ड) प्राप्त करने के लिए कृपया अपना ईमेल पता जांचें।,يرجى التحقق من عنوان بريدك الإلكتروني للحصول على OTP (كلمة المرور لمرة واحدة).,Verifique su dirección de correo electrónico para obtener la OTP (contraseña de un solo uso).
+You can resend the code after,You can resend the code after,आप इसके बाद कोड दोबारा भेज सकते हैं,يمكنك إعادة إرسال الرمز بعد ذلك,Puedes reenviar el código después
+time,time,समय,وقت,tiempo
+I have read and agreed with the,I have read and agreed with the,मैंने इसे पढ़ लिया है और इससे सहमत हूं,لقد قرأت ووافقت على,He leído y estoy de acuerdo con el
+"Terms Of Use , Privacy Policy","Terms Of Use , Privacy Policy",उपयोग की शर्ते प्राइवेसि पॉलिसी,شروط الاستخدام، سياسة الخصوصية,"Términos de uso, Política de privacidad"
+Register Now,Register Now,अभी पंजीकरण करें,سجل الان,Regístrate ahora
+Set New Password,Set New Password,नया पासवर्ड सेट करें,تعيين كلمة مرور جديدة,Establecer nueva contraseña
+Please enter your new password.,Please enter your new password.,कृपया अपना नया पासवर्ड दर्ज करें.,الرجاء إدخال كلمة المرور الجديدة.,Por favor ingrese su nueva contraseña.
+Confirm,Confirm,पुष्टि करना,يتأكد,Confirmar
+Account Authorization,Account Authorization,खाता प्राधिकरण,ترخيص الحساب,Autorización de cuenta
+Need to verify your account. Please check your mail inbox to get the authorization code,Need to verify your account. Please check your mail inbox to get the authorization code,अपना खाता सत्यापित करने की आवश्यकता है. कृपया प्राधिकरण कोड प्राप्त करने के लिए अपना मेल इनबॉक्स जांचें,تحتاج إلى التحقق من حسابك. يرجى التحقق من صندوق البريد الوارد الخاص بك للحصول على رمز التفويض,Necesita verificar su cuenta. Por favor revise su bandeja de entrada de correo para obtener el código de autorización.
+You can resend,You can resend,आप पुनः भेज सकते हैं,يمكنك إعادة الإرسال,puedes reenviar
+Back to,Back to,वापस,ارجع الى,De regreso
+Home,Home,घर,بيت,Hogar
+About,About,के बारे में,عن,Acerca de
+Gallery,Gallery,गैलरी,صالة عرض,Galería
+Team,Team,टीम,فريق,Equipo
+Blog,Blog,ब्लॉग,مدونة,Blog
+Contact,Contact,संपर्क,اتصال,Contacto
+Don't Have An Account?,Don't Have An Account?,कोई खाता नहीं है?,ليس لديك حساب؟,¿No tienes una cuenta?
+Current Password,Current Password,वर्तमान पासवर्ड,كلمة السر الحالية,Contraseña actual
+Logout,Logout,लॉग आउट,تسجيل خروج,Cerrar sesión
+Type here,Type here,यहाँ टाइप करें,أكتب هنا,Escriba aquí
+Enter Name,Enter Name,नाम दर्ज करें,أدخل الاسم,Ingrese su nombre
+Enter Email,Enter Email,ईमेल दर्ज करें,أدخل البريد الإلكتروني,Ingrese correo electrónico
+Write Here,Write Here,यहाँ लिखें,اكتب هنا,Escribe aquí
+Basic Settings fetched successfully!,Basic Settings fetched successfully!,बुनियादी सेटिंग्स सफलतापूर्वक लाई गईं!,تم جلب الإعدادات الأساسية بنجاح!,¡La configuración básica se obtuvo correctamente!
+Languages fetched successfully!,Languages fetched successfully!,भाषाएँ सफलतापूर्वक प्राप्त हुईं!,تم جلب اللغات بنجاح!,¡Idiomas recuperados exitosamente!
+Onboard Screen fetched successfully!,Onboard Screen fetched successfully!,ऑनबोर्ड स्क्रीन सफलतापूर्वक लाई गई!,تم جلب الشاشة الموجودة على اللوحة بنجاح!,¡La pantalla integrada se obtuvo correctamente!
+Sub Title,Sub Title,उपशीर्षक,العنوان الفرعي,Subtítulo
+Team Data fetched successfully!,Team Data fetched successfully!,टीम डेटा सफलतापूर्वक लाया गया!,تم جلب بيانات الفريق بنجاح!,¡Datos del equipo obtenidos exitosamente!
+Gallery Data fetched successfully!,Gallery Data fetched successfully!,गैलरी डेटा सफलतापूर्वक लाया गया!,تم جلب بيانات المعرض بنجاح!,¡Datos de la galería obtenidos correctamente!
+Show Schedules Data fetched successfully!,Show Schedules Data fetched successfully!,शेड्यूल दिखाएं डेटा सफलतापूर्वक प्राप्त हुआ!,إظهار بيانات الجداول التي تم جلبها بنجاح!,Mostrar horarios ¡Los datos se obtuvieron correctamente!
+Live Show Data fetched successfully!,Live Show Data fetched successfully!,लाइव शो डेटा सफलतापूर्वक लाया गया!,تم جلب بيانات العرض المباشر بنجاح!,¡Datos del show en vivo obtenidos exitosamente!
+Team Item Edit,Team Item Edit,टीम आइटम संपादित करें,تحرير عنصر الفريق,Editar elemento de equipo
+Announcement,Announcement,घोषणा,إعلان,Anuncio
+Announcement Details,Announcement Details,घोषणा विवरण,تفاصيل الإعلان,Detalles del anuncio
+credentials,credentials,साख,أوراق اعتماد,cartas credenciales
+User doesn,User doesn,उपयोगकर्ता नहीं करता,المستخدم لا,El usuario no
+Invalid Request. Please try again.,Invalid Request. Please try again.,अमान्य अनुरोध। कृपया पुन: प्रयास करें।,طلب غير صالح. حاول مرة اخرى.,Solicitud no válida. Inténtalo de nuevo.
+Something went wrong! Please try again.,Something went wrong! Please try again.,कुछ गलत हो गया! कृपया पुन: प्रयास करें।,هناك خطأ ما! حاول مرة اخرى.,¡Algo salió mal! Inténtalo de nuevo.
+Cookie Allowed Success,Cookie Allowed Success,कुकी ने सफलता की अनुमति दी,نجاح ملفات تعريف الارتباط المسموح بها,Cookie permitida exitosamente
+Cookie Declined,Cookie Declined,कुकी अस्वीकृत,تم رفض ملف تعريف الارتباط,Cookie rechazada
+Allow,Allow,अनुमति दें,يسمح,Permitir
+Decline,Decline,गिरावट,انخفاض,Rechazar
+Send OTP,Send OTP,OTP भेजें,أرسل كلمة مرور لمرة واحدة,Enviar OTP
+Already Have An Account,Already Have An Account,क्या आपके पास पहले से एक खाता मौजूद है,هل لديك حساب,Ya tienes una cuenta
+Password Reset Link sended to your email address.,Password Reset Link sended to your email address.,पासवर्ड रीसेट लिंक आपके ईमेल पते पर भेज दिया गया है।,تم إرسال رابط إعادة تعيين كلمة المرور إلى عنوان بريدك الإلكتروني.,Enlace de restablecimiento de contraseña enviado a su dirección de correo electrónico.
+admin.login,admin.login,व्यवस्थापक.लॉगिन,دخول المشرف,administrador.iniciar sesión
+Successfully updated password. Please login,Successfully updated password. Please login,पासवर्ड सफलतापूर्वक अपडेट किया गया. कृपया लॉगिन करें,تم تحديث كلمة المرور بنجاح. الرجاء تسجيل الدخول,Contraseña actualizada correctamente. Por favor Iniciar sesión
+Schedule Section updated successfully!,Schedule Section updated successfully!,शेड्यूल अनुभाग सफलतापूर्वक अपडेट किया गया!,تم تحديث قسم الجدول بنجاح!,¡La sección de programación se actualizó exitosamente!
+Event Already Exists!,Event Already Exists!,इवेंट पहले से मौजूद है!,الحدث موجود بالفعل!,¡El evento ya existe!
+Schedule added successfully!,Schedule added successfully!,शेड्यूल सफलतापूर्वक जोड़ा गया!,تمت إضافة الجدول بنجاح!,¡Programa agregado exitosamente!
+Schedule updated successfully!,Schedule updated successfully!,शेड्यूल सफलतापूर्वक अपडेट किया गया!,تم تحديث الجدول بنجاح!,Horario actualizado exitosamente!
+Schedule deleted successfully!,Schedule deleted successfully!,शेड्यूल सफलतापूर्वक हटा दिया गया!,تم حذف الجدول بنجاح!,¡Programación eliminada exitosamente!
+Schedule record not found in our system.,Schedule record not found in our system.,हमारे सिस्टम में शेड्यूल रिकॉर्ड नहीं मिला.,لم يتم العثور على سجل الجدول الزمني في نظامنا.,Registro de programación no encontrado en nuestro sistema.
+Schedule Live Status updated successfully!,Schedule Live Status updated successfully!,शेड्यूल लाइव स्टेटस सफलतापूर्वक अपडेट किया गया!,تم تحديث حالة الجدولة المباشرة بنجاح!,¡Programar estado en vivo actualizado exitosamente!
+Day Already Exists!,Day Already Exists!,दिन पहले से ही मौजूद है!,اليوم موجود بالفعل!,¡El día ya existe!
+Day Saved Successfully!,Day Saved Successfully!,दिन सफलतापूर्वक बचाया गया!,تم حفظ اليوم بنجاح!,¡Día guardado con éxito!
+Day Updated Successfully!,Day Updated Successfully!,दिन सफलतापूर्वक अपडेट किया गया!,تم تحديث اليوم بنجاح!,¡Día actualizado con éxito!
+Day record not found in our system.,Day record not found in our system.,हमारे सिस्टम में दिन का रिकॉर्ड नहीं मिला.,سجل اليوم غير موجود في نظامنا.,Registro de día no encontrado en nuestro sistema.
+Something went wrong!. Please try again.,Something went wrong!. Please try again.,कुछ गलत हो गया!। कृपया पुन: प्रयास करें।,هناك خطأ ما!. حاول مرة اخرى.,¡Algo salió mal!. Inténtalo de nuevo.
+Day status updated successfully!,Day status updated successfully!,दिन की स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة اليوم بنجاح!,¡El estado del día se actualizó exitosamente!
+Day deleted successfully!,Day deleted successfully!,दिन सफलतापूर्वक हटा दिया गया!,تم حذف اليوم بنجاح!,¡Día eliminado exitosamente!
+Email send successfully!,Email send successfully!,ईमेल सफलतापूर्वक भेजा गया!,إرسال البريد الإلكتروني بنجاح!,¡Envío de correo electrónico exitoso!
+Can,Can,कर सकना,يستطيع,Poder
+Oops! Failed to upload image.,Oops! Failed to upload image.,उफ़! छवि अपलोड करने में विफल.,أُووبس! فشل تحميل الصورة.,¡Ups! No se pudo cargar la imagen.
+Role assign failed!,Role assign failed!,भूमिका असाइन करना विफल!,فشل تعيين الدور!,¡Error en la asignación de roles!
+New admin created successfully!,New admin created successfully!,नया व्यवस्थापक सफलतापूर्वक बनाया गया!,تم إنشاء المشرف الجديد بنجاح!,¡Nuevo administrador creado exitosamente!
+Oops! Target admin not found!,Oops! Target admin not found!,उफ़! लक्ष्य व्यवस्थापक नहीं मिला!,أُووبس! لم يتم العثور على المشرف المستهدف!,¡Ups! ¡Administrador objetivo no encontrado!
+Failed to assign role.,Failed to assign role.,भूमिका निर्दिष्ट करने में विफल.,فشل في تعيين الدور.,No se pudo asignar el rol.
+Admin information updated successfully!,Admin information updated successfully!,व्यवस्थापक जानकारी सफलतापूर्वक अपडेट की गई!,تم تحديث معلومات المشرف بنجاح!,¡La información del administrador se actualizó exitosamente!
+Admin status updated successfully!,Admin status updated successfully!,व्यवस्थापक स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة المشرف بنجاح!,¡El estado del administrador se actualizó exitosamente!
+Admin role created successfully!,Admin role created successfully!,व्यवस्थापक भूमिका सफलतापूर्वक बनाई गई!,تم إنشاء دور المشرف بنجاح!,¡El rol de administrador se creó exitosamente!
+Oops! Target not found!,Oops! Target not found!,उफ़! लक्ष्य नहीं मिला!,أُووبس! لم يتم العثور على الهدف!,¡Ups! ¡Objetivo no encontrado!
+Target role not found!,Target role not found!,लक्ष्य भूमिका नहीं मिली!,لم يتم العثور على الدور المستهدف!,¡No se encontró el rol de destino!
+Admin role deleted successfully!,Admin role deleted successfully!,व्यवस्थापक भूमिका सफलतापूर्वक हटा दी गई!,تم حذف دور المشرف بنجاح!,¡El rol de administrador se eliminó correctamente!
+Permission created successfully!,Permission created successfully!,अनुमति सफलतापूर्वक बनाई गई!,تم إنشاء الإذن بنجاح!,¡Permiso creado exitosamente!
+Target not found!,Target not found!,लक्ष्य नहीं मिला!,لم يتم العثور على الهدف!,¡Objetivo no encontrado!
+Permission not found!,Permission not found!,अनुमति नहीं मिली!,لم يتم العثور على إذن!,¡Permiso no encontrado!
+Permission updated successfully!,Permission updated successfully!,अनुमति सफलतापूर्वक अपडेट की गई!,تم تحديث الإذن بنجاح!,¡Permiso actualizado exitosamente!
+Permission deleted successfully!,Permission deleted successfully!,अनुमति सफलतापूर्वक हटा दी गई!,تم حذف الإذن بنجاح!,¡Permiso eliminado exitosamente!
+Role permission not found!,Role permission not found!,भूमिका की अनुमति नहीं मिली!,لم يتم العثور على إذن الدور!,¡Permiso de rol no encontrado!
+Permission assign successfully!,Permission assign successfully!,अनुमति सफलतापूर्वक असाइन की गई!,تم تعيين الإذن بنجاح!,¡El permiso se asignó correctamente!
+Admin deleted successfully!,Admin deleted successfully!,व्यवस्थापक सफलतापूर्वक हटा दिया गया!,تم حذف المشرف بنجاح!,¡El administrador se eliminó exitosamente!
+Onboard Screen Added Successfully!,Onboard Screen Added Successfully!,ऑनबोर्ड स्क्रीन सफलतापूर्वक जोड़ी गई!,تمت إضافة الشاشة على متن الطائرة بنجاح!,¡Pantalla integrada agregada con éxito!
+Onboard screen not found!,Onboard screen not found!,ऑनबोर्ड स्क्रीन नहीं मिली!,لم يتم العثور على الشاشة على متن الطائرة!,¡No se encontró la pantalla integrada!
+Onboard screen status updated successfully!.,Onboard screen status updated successfully!.,ऑनबोर्ड स्क्रीन स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة الشاشة على متن الطائرة بنجاح!.,¡El estado de la pantalla a bordo se actualizó exitosamente!.
+Onboard screen information updated successfully!,Onboard screen information updated successfully!,ऑनबोर्ड स्क्रीन जानकारी सफलतापूर्वक अपडेट की गई!,تم تحديث معلومات الشاشة الموجودة على اللوحة بنجاح!,¡La información de la pantalla a bordo se actualizó exitosamente!
+Screen deleted successfully!,Screen deleted successfully!,स्क्रीन सफलतापूर्वक हटा दी गई!,تم حذف الشاشة بنجاح!,¡Pantalla eliminada exitosamente!
+Splash screen updated successfully!,Splash screen updated successfully!,स्पलैश स्क्रीन सफलतापूर्वक अपडेट की गई!,تم تحديث شاشة البداية بنجاح!,¡La pantalla de bienvenida se actualizó correctamente!
+URL settings updated successfully!,URL settings updated successfully!,यूआरएल सेटिंग्स सफलतापूर्वक अपडेट की गईं!,تم تحديث إعدادات URL بنجاح!,¡La configuración de URL se actualizó correctamente!
+Broadcast configuration updated successfully!,Broadcast configuration updated successfully!,प्रसारण कॉन्फ़िगरेशन सफलतापूर्वक अपडेट किया गया!,تم تحديث تكوين البث بنجاح!,¡La configuración de transmisión se actualizó exitosamente!
+Cookie information updated successfully!,Cookie information updated successfully!,कुकी जानकारी सफलतापूर्वक अपडेट की गई!,تم تحديث معلومات ملفات تعريف الارتباط بنجاح!,¡La información de las cookies se actualizó correctamente!
+Notifications clear successfully!,Notifications clear successfully!,सूचनाएं सफलतापूर्वक साफ़ हो गईं!,تم مسح الإخطارات بنجاح!,¡Las notificaciones se borran correctamente!
+Extension has been udpated successfully,Extension has been udpated successfully,एक्सटेंशन सफलतापूर्वक अपडेट कर दिया गया है,تم تحديث الامتداد بنجاح,La extensión se ha actualizado correctamente.
+Extension is not found!.,Extension is not found!.,एक्सटेंशन नहीं मिला!,لم يتم العثور على التمديد!.,¡No se encuentra la extensión!.
+Extension status is updated successfully!,Extension status is updated successfully!,एक्सटेंशन स्थिति सफलतापूर्वक अपडेट हो गई है!,تم تحديث حالة الامتداد بنجاح!,¡El estado de la extensión se actualizó correctamente!
+Language updated successfully!,Language updated successfully!,भाषा सफलतापूर्वक अपडेट की गई!,تم تحديث اللغة بنجاح!,¡Idioma actualizado exitosamente!
+Language (,Language (,भाषा (,لغة (,Idioma (
+) is not removable.,) is not removable.,) हटाने योग्य नहीं है.,) غير قابل للإزالة.,) no es removible.
+File remove failed!,File remove failed!,फ़ाइल हटाना विफल!,فشل إزالة الملف!,¡Error al eliminar el archivo!
+Language deleted successfully!,Language deleted successfully!,भाषा सफलतापूर्वक हटा दी गई!,تم حذف اللغة بنجاح!,¡Idioma eliminado exitosamente!
+Please deselect your default language first.,Please deselect your default language first.,कृपया पहले अपनी डिफ़ॉल्ट भाषा का चयन रद्द करें।,الرجاء إلغاء تحديد لغتك الافتراضية أولاً.,Primero deseleccione su idioma predeterminado.
+Language status updated successfully!,Language status updated successfully!,भाषा स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة اللغة بنجاح!,¡El estado del idioma se actualizó exitosamente!
+Sorry! Language not found!,Sorry! Language not found!,क्षमा मांगना! भाषा नहीं मिली!,آسف! لم يتم العثور على اللغة!,¡Lo siento! ¡Idioma no encontrado!
+Failed to store new file.,Failed to store new file.,नई फ़ाइल संग्रहीत करने में विफल.,فشل في تخزين الملف الجديد.,No se pudo almacenar el nuevo archivo.
+Language switch successfully!,Language switch successfully!,भाषा परिवर्तन सफलतापूर्वक!,تبديل اللغة بنجاح!,¡Cambio de idioma exitoso!
+File does not exists.,File does not exists.,फ़ाइल मौजूद नहीं है.,الملف غير موجود.,El archivo no existe.
+Profile Information Updated Successfully!,Profile Information Updated Successfully!,प्रोफ़ाइल जानकारी सफलतापूर्वक अपडेट की गई!,تم تحديث معلومات الملف الشخصي بنجاح!,¡Información de perfil actualizada con éxito!
+Oops! Basic settings not found!,Oops! Basic settings not found!,उफ़! बुनियादी सेटिंग्स नहीं मिलीं!,أُووبس! لم يتم العثور على الإعدادات الأساسية!,¡Ups! ¡No se encontraron configuraciones básicas!
+Sorry! You have to configure first to send push notification.,Sorry! You have to configure first to send push notification.,क्षमा मांगना! पुश नोटिफिकेशन भेजने के लिए आपको पहले कॉन्फ़िगर करना होगा।,آسف! يجب عليك التهيئة أولاً لإرسال إشعار الدفع.,¡Lo siento! Primero debe configurar para enviar notificaciones automáticas.
+Please configure your push notification with valid credentials.,Please configure your push notification with valid credentials.,कृपया अपनी पुश अधिसूचना को वैध क्रेडेंशियल्स के साथ कॉन्फ़िगर करें।,يرجى تكوين إشعار الدفع الخاص بك ببيانات اعتماد صالحة.,Configure su notificación push con credenciales válidas.
+Oops! Failed to store information.,Oops! Failed to store information.,उफ़! जानकारी संग्रहीत करने में विफल.,أُووبس! فشل في تخزين المعلومات.,¡Ups! No se pudo almacenar la información.
+Notification sended successfully!,Notification sended successfully!,अधिसूचना सफलतापूर्वक भेजी गई!,تم إرسال الإخطار بنجاح!,¡Notificación enviada exitosamente!
+Oops! Basic setting not found!,Oops! Basic setting not found!,उफ़! मूल सेटिंग नहीं मिली!,أُووبس! لم يتم العثور على الإعداد الأساسي!,¡Ups! ¡Configuración básica no encontrada!
+Push notification configuration updated successfully!,Push notification configuration updated successfully!,पुश अधिसूचना कॉन्फ़िगरेशन सफलतापूर्वक अपडेट किया गया!,تم تحديث تكوين إشعار الدفع بنجاح!,¡La configuración de notificaciones push se actualizó correctamente!
+Basic settings not found!,Basic settings not found!,बुनियादी सेटिंग्स नहीं मिलीं!,لم يتم العثور على الإعدادات الأساسية!,¡No se encontraron configuraciones básicas!
+Information updated successfully!,Information updated successfully!,जानकारी सफलतापूर्वक अपडेट की गई!,تم تحديث المعلومات بنجاح!,¡Información actualizada exitosamente!
+Page not found!,Page not found!,पृष्ठ नहीं मिला!,الصفحة غير موجودة!,¡Página no encontrada!
+Setup Page status updated successfully!,Setup Page status updated successfully!,सेटअप पृष्ठ स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة صفحة الإعداد بنجاح!,¡El estado de la página de configuración se actualizó exitosamente!
+Section item added successfully!,Section item added successfully!,अनुभाग आइटम सफलतापूर्वक जोड़ा गया!,تمت إضافة عنصر القسم بنجاح!,¡El artículo de la sección se agregó correctamente!
+Section not found!,Section not found!,अनुभाग नहीं मिला!,لم يتم العثور على القسم!,¡Sección no encontrada!
+Section item not found!,Section item not found!,अनुभाग आइटम नहीं मिला!,لم يتم العثور على عنصر القسم!,¡Artículo de sección no encontrado!
+Section item is invalid!,Section item is invalid!,अनुभाग आइटम अमान्य है!,عنصر القسم غير صالح!,¡El elemento de la sección no es válido!
+Section item updated successfully!,Section item updated successfully!,अनुभाग आइटम सफलतापूर्वक अपडेट किया गया!,تم تحديث عنصر القسم بنجاح!,¡El elemento de la sección se actualizó exitosamente!
+Section item deleted successfully!,Section item deleted successfully!,अनुभाग आइटम सफलतापूर्वक हटा दिया गया!,تم حذف عنصر القسم بنجاح!,¡El elemento de la sección se eliminó correctamente!
+Section updated successfully!,Section updated successfully!,अनुभाग सफलतापूर्वक अपडेट किया गया!,تم تحديث القسم بنجاح!,¡Sección actualizada exitosamente!
+Team item not found!,Team item not found!,टीम आइटम नहीं मिला!,لم يتم العثور على عنصر الفريق!,¡Artículo del equipo no encontrado!
+Team item is invalid!,Team item is invalid!,टीम आइटम अमान्य है!,عنصر الفريق غير صالح!,¡El artículo del equipo no es válido!
+Social link item not found!,Social link item not found!,सामाजिक लिंक आइटम नहीं मिला!,لم يتم العثور على عنصر الرابط الاجتماعي!,¡No se encontró el elemento de enlace social!
+Section Social item deleted successfully!,Section Social item deleted successfully!,अनुभाग सामाजिक आइटम सफलतापूर्वक हटा दिया गया!,تم حذف العنصر الاجتماعي للقسم بنجاح!,¡El elemento social de la sección se eliminó correctamente!
+Category Already Exists!,Category Already Exists!,श्रेणी पहले से मौजूद है!,الفئة موجودة بالفعل!,¡La categoría ya existe!
+Category Saved Successfully!,Category Saved Successfully!,श्रेणी सफलतापूर्वक सहेजी गई!,تم حفظ الفئة بنجاح!,¡Categoría guardada exitosamente!
+Category Updated Successfully!,Category Updated Successfully!,श्रेणी सफलतापूर्वक अपडेट की गई!,تم تحديث الفئة بنجاح!,¡Categoría actualizada con éxito!
+Category record not found in our system.,Category record not found in our system.,हमारे सिस्टम में श्रेणी रिकॉर्ड नहीं मिला.,لم يتم العثور على سجل الفئة في نظامنا.,Registro de categoría no encontrado en nuestro sistema.
+Category status updated successfully!,Category status updated successfully!,श्रेणी स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة الفئة بنجاح!,¡El estado de la categoría se actualizó exitosamente!
+Category deleted successfully!,Category deleted successfully!,श्रेणी सफलतापूर्वक हटा दी गई!,تم حذف الفئة بنجاح!,¡Categoría eliminada exitosamente!
+Announcement item added successfully!,Announcement item added successfully!,घोषणा आइटम सफलतापूर्वक जोड़ा गया!,تمت إضافة عنصر الإعلان بنجاح!,¡El artículo del anuncio se agregó correctamente!
+Announcement item updated successfully!,Announcement item updated successfully!,घोषणा आइटम सफलतापूर्वक अपडेट किया गया!,تم تحديث عنصر الإعلان بنجاح!,¡El elemento del anuncio se actualizó correctamente!
+Announcement delete successfully!,Announcement delete successfully!,घोषणा सफलतापूर्वक हटा दी गई!,تم حذف الإعلان بنجاح!,¡Anuncio eliminado exitosamente!
+Announcement record not found in our system.,Announcement record not found in our system.,हमारे सिस्टम में घोषणा रिकॉर्ड नहीं मिला.,سجل الإعلان غير موجود في نظامنا.,Registro de anuncio no encontrado en nuestro sistema.
+Announcement status updated successfully!,Announcement status updated successfully!,घोषणा स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة الإعلان بنجاح!,¡El estado del anuncio se actualizó exitosamente!
+Footer updated successfully!,Footer updated successfully!,फ़ुटर सफलतापूर्वक अपडेट किया गया!,تم تحديث التذييل بنجاح!,¡Pie de página actualizado exitosamente!
+Social icon added successfully!,Social icon added successfully!,सामाजिक चिह्न सफलतापूर्वक जोड़ा गया!,تمت إضافة الرمز الاجتماعي بنجاح!,¡El ícono social se agregó exitosamente!
+Auth updated successfully!,Auth updated successfully!,प्रमाणीकरण सफलतापूर्वक अपडेट किया गया!,تم تحديث المصادقة بنجاح!,¡Autenticación actualizada exitosamente!
+This support ticket is closed.,This support ticket is closed.,यह समर्थन टिकट बंद है.,تم إغلاق تذكرة الدعم هذه.,Este ticket de soporte está cerrado.
+SMS Sending failed! Please try again.,SMS Sending failed! Please try again.,एसएमएस भेजना विफल! कृपया पुन: प्रयास करें।,فشل إرسال الرسائل القصيرة! حاول مرة اخرى.,¡Falló el envío de SMS! Inténtalo de nuevo.
+Failed to change status to active!,Failed to change status to active!,स्थिति को सक्रिय में बदलने में विफल!,فشل تغيير الحالة إلى نشطة!,¡No se pudo cambiar el estado a activo!
+This ticket is already solved!,This ticket is already solved!,यह टिकट पहले ही हल हो चुका है!,تم حل هذه التذكرة بالفعل!,¡Este ticket ya está solucionado!
+Success,Success,सफलता,نجاح,Éxito
+Page added successfully!,Page added successfully!,पेज सफलतापूर्वक जोड़ा गया!,تمت إضافة الصفحة بنجاح!,¡Página agregada exitosamente!
+Page updated successfully!,Page updated successfully!,पेज सफलतापूर्वक अपडेट किया गया!,تم تحديث الصفحة بنجاح!,¡Página actualizada exitosamente!
+Page record not found in our system.,Page record not found in our system.,हमारे सिस्टम में पेज रिकॉर्ड नहीं मिला.,سجل الصفحة غير موجود في نظامنا.,Registro de página no encontrado en nuestro sistema.
+Page status updated successfully!,Page status updated successfully!,पृष्ठ स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة الصفحة بنجاح!,¡El estado de la página se actualizó exitosamente!
+Page deleted successfully!,Page deleted successfully!,पेज सफलतापूर्वक हटा दिया गया!,تم حذف الصفحة بنجاح!,¡Página eliminada exitosamente!
+Email successfully sended,Email successfully sended,ईमेल सफलतापूर्वक भेजा गया,تم إرسال البريد الإلكتروني بنجاح,Correo electrónico enviado correctamente
+Basic settings updated successfully!,Basic settings updated successfully!,बुनियादी सेटिंग्स सफलतापूर्वक अपडेट की गईं!,تم تحديث الإعدادات الأساسية بنجاح!,¡La configuración básica se actualizó correctamente!
+You have to configure your system mail first.,You have to configure your system mail first.,आपको पहले अपना सिस्टम मेल कॉन्फ़िगर करना होगा.,يجب عليك تكوين بريد النظام الخاص بك أولاً.,Primero debe configurar el correo de su sistema.
+Basic settings status updated successfully!,Basic settings status updated successfully!,बुनियादी सेटिंग्स स्थिति सफलतापूर्वक अपडेट की गई!,تم تحديث حالة الإعدادات الأساسية بنجاح!,¡El estado de la configuración básica se actualizó correctamente!
+Basic setting not found! Please run database seeder,Basic setting not found! Please run database seeder,मूल सेटिंग नहीं मिली! कृपया डेटाबेस सीडर चलाएँ,لم يتم العثور على الإعداد الأساسي! الرجاء تشغيل بذارة قاعدة البيانات,¡Configuración básica no encontrada! Por favor ejecute el sembrador de base de datos
+No changes to update.,No changes to update.,अद्यतन करने के लिए कोई परिवर्तन नहीं.,لا توجد تغييرات للتحديث.,No hay cambios para actualizar.
+Image assets updated successfully!.,Image assets updated successfully!.,छवि परिसंपत्तियाँ सफलतापूर्वक अपडेट की गईं!,تم تحديث أصول الصورة بنجاح!.,Recursos de imagen actualizados exitosamente.
+Splash Screen fetched successfully!,Splash Screen fetched successfully!,स्पलैश स्क्रीन सफलतापूर्वक प्राप्त हुई!,تم جلب شاشة البداية بنجاح!,¡La pantalla de bienvenida se obtuvo correctamente!
+You can resend verification code after,You can resend verification code after,आप इसके बाद सत्यापन कोड दोबारा भेज सकते हैं,يمكنك إعادة إرسال رمز التحقق بعد ذلك,Puedes reenviar el código de verificación después
+User Registration is currently disabled from admin,User Registration is currently disabled from admin,उपयोगकर्ता पंजीकरण वर्तमान में व्यवस्थापक से अक्षम है,تسجيل المستخدم معطل حاليا من المشرف,El registro de usuario está actualmente deshabilitado desde el administrador.
+User dashboard data fetched successfully!,User dashboard data fetched successfully!,उपयोगकर्ता डैशबोर्ड डेटा सफलतापूर्वक लाया गया!,تم جلب بيانات لوحة تحكم المستخدم بنجاح!,¡Los datos del panel de usuario se obtuvieron correctamente!
+User Notification data fetched successfully!,User Notification data fetched successfully!,उपयोगकर्ता अधिसूचना डेटा सफलतापूर्वक लाया गया!,تم جلب بيانات إشعار المستخدم بنجاح!,¡Los datos de notificación del usuario se obtuvieron correctamente!
+Message Send Successfully!,Message Send Successfully!,संदेश सफलतापूर्वक भेजा गया!,تم إرسال الرسالة بنجاح!,¡Mensaje enviado exitosamente!
+Subscribed Successfully!,Subscribed Successfully!,सफलतापूर्वक सदस्यता ली!,تم الاشتراك بنجاح!,¡Suscrito exitosamente!
+Oops! Language Not Found!,Oops! Language Not Found!,उफ़! भाषा नहीं मिली!,أُووبس! اللغة غير موجودة!,¡Ups! ¡Idioma no encontrado!
+Language Switch to,Language Switch to,भाषा पर स्विच करें,تبديل اللغة إلى,Idioma Cambiar a
+Verification code sended to your email address.,Verification code sended to your email address.,सत्यापन कोड आपके ईमेल पते पर भेजा गया।,تم إرسال رمز التحقق إلى عنوان بريدك الإلكتروني.,Código de verificación enviado a su dirección de correo electrónico.
+Password Reset Token Expired,Password Reset Token Expired,पासवर्ड रीसेट टोकन समाप्त हो गया,انتهت صلاحية رمز إعادة تعيين كلمة المرور,El token de restablecimiento de contraseña expiró
+Session expired. Please try again.,Session expired. Please try again.,सत्र समाप्त हुआ। कृपया पुन: प्रयास करें।,انتهت الجلسة. حاول مرة اخرى.,Sesión expirada. Inténtalo de nuevo.
+Something went wrong. please try again,Something went wrong. please try again,कुछ गलत हो गया। कृपया पुन: प्रयास करें,هناك خطأ ما. حاول مرة اخرى,Algo salió mal. Inténtalo de nuevo
+Verification code resend success!,Verification code resend success!,सत्यापन कोड पुनः भेजना सफल!,تمت إعادة إرسال رمز التحقق بنجاح!,¡El reenvío del código de verificación fue exitoso!
+Password reset success. Please login with new password.,Password reset success. Please login with new password.,पासवर्ड रीसेट सफल. कृपया नए पासवर्ड से लॉगिन करें.,نجاح إعادة تعيين كلمة المرور. الرجاء تسجيل الدخول بكلمة المرور الجديدة.,Restablecimiento de contraseña exitoso. Por favor inicie sesión con una nueva contraseña.
+Invalid otp code,Invalid otp code,अमान्य ओटीपी कोड,رمز OTP غير صالح,código otp no válido
+Mail OTP Resend Success!,Mail OTP Resend Success!,मेल ओटीपी पुनः भेजें सफलता!,نجاح إعادة إرسال البريد OTP!,¡Reenvío de OTP por correo exitoso!
+Profile successfully updated!,Profile successfully updated!,प्रोफ़ाइल सफलतापूर्वक अपडेट की गई!,تم تحديث الملف الشخصي بنجاح!,¡Perfil actualizado exitosamente!
+Password successfully updated!,Password successfully updated!,पासवर्ड सफलतापूर्वक अपडेट किया गया!,تم تحديث كلمة المرور بنجاح!,¡Contraseña actualizada exitosamente!
+Password Changed successfully login again!,Password Changed successfully login again!,पासवर्ड सफलतापूर्वक बदला गया फिर से लॉगिन करें!,تم تغيير كلمة المرور بنجاح قم بتسجيل الدخول مرة أخرى!,Contraseña cambiada exitosamente ¡Inicie sesión nuevamente!
+New password & confirm password is not same!,New password & confirm password is not same!,नया पासवर्ड और कन्फर्म पासवर्ड एक ही नहीं है!,كلمة المرور الجديدة وتأكيد كلمة المرور ليسا نفس الشيء!,¡Nueva contraseña y confirmación de contraseña no son lo mismo!
+Password not updated!,Password not updated!,पासवर्ड अपडेट नहीं हुआ!,لم يتم تحديث كلمة المرور!,¡Contraseña no actualizada!
+Your account is not activated check mail inbox/spam.,Your account is not activated check mail inbox/spam.,"आपका खाता सक्रिय नहीं है, मेल इनबॉक्स/स्पैम जांचें।",لم يتم تنشيط حسابك، تحقق من البريد الوارد/البريد العشوائي.,Tu cuenta no está activada revisa tu bandeja de entrada/spam.
+Email-Address And Password Are Wrong.,Email-Address And Password Are Wrong.,ईमेल-पता और पासवर्ड ग़लत हैं.,عنوان البريد الإلكتروني وكلمة المرور خاطئان.,La dirección de correo electrónico y la contraseña son incorrectas.
+Message deleted successfully!,Message deleted successfully!,संदेश सफलतापूर्वक हटा दिया गया!,تم حذف الرسالة بنجاح!,¡Mensaje eliminado exitosamente!
+Mail From Address,Mail From Address,मेल पते से,البريد من العنوان,Correo desde la dirección
+TRUE,TRUE,सत्य,حقيقي,VERDADERO
+Register,Register,पंजीकरण करवाना,يسجل,Registro
+Not Found,Not Found,नहीं मिला,غير معثور عليه,Extraviado
+Page Expired,Page Expired,पेज समाप्त हो गया,انتهت صلاحية الصفحة,Página caducada
+Server Error,Server Error,सर्वर त्रुटि,خطأ في الخادم,Error del Servidor
+Previous,Previous,पहले का,سابق,Anterior
+Please confirm your password before continuing.,Please confirm your password before continuing.,कृपया जारी रखने से पहले अपने पासवर्ड की पुष्टि करें।,الرجاء تأكيد كلمة المرور الخاصة بك قبل المتابعة.,Confirme su contraseña antes de continuar.
+Forgot Your Password?,Forgot Your Password?,अपना कूट शब्द भूल गए?,نسيت كلمة السر؟,¿Olvidaste tu contraseña?
+Send Password Reset Link,Send Password Reset Link,पासवर्ड रीसेट लिंक भेजें,إرسال رابط إعادة تعيين كلمة السر,Enviar enlace para restablecer contraseña
+Remember Me,Remember Me,मुझे याद करो,تذكرنى,Acuérdate de mí
+Verify Your Email Address,Verify Your Email Address,अपने ईमेल पते की पुष्टि करें,تحقق من عنوان بريدك الإلكتروني,Verifique su dirección de correo electrónico
+A fresh verification link has been sent to your email address.,A fresh verification link has been sent to your email address.,आपके ईमेल पते पर एक नया सत्यापन लिंक भेजा गया है।,تم إرسال رابط تحقق جديد إلى عنوان بريدك الإلكتروني.,Se ha enviado un nuevo enlace de verificación a su dirección de correo electrónico.
+"Before proceeding, please check your email for a verification link.","Before proceeding, please check your email for a verification link.","आगे बढ़ने से पहले, कृपया सत्यापन लिंक के लिए अपना ईमेल जांचें।",قبل المتابعة، يرجى التحقق من بريدك الإلكتروني للحصول على رابط التحقق.,"Antes de continuar, consulte su correo electrónico para obtener un enlace de verificación."
+If you did not receive the email,If you did not receive the email,यदि आपको ईमेल प्राप्त नहीं हुआ,إذا لم تتلق البريد الإلكتروني,Si no recibiste el correo electrónico
+click here to request another,click here to request another,दूसरे का अनुरोध करने के लिए यहां क्लिक करें,انقر هنا لطلب آخر,haga clic aquí para solicitar otro
+You are logged in!,You are logged in!,आप लोग्ड इन हो चुके हैं!,لقد سجلت الدخول!,¡Estás conectado!
+There was an error on row :row. :message,There was an error on row :row. :message,पंक्ति में एक त्रुटि थी:पंक्ति. :संदेश,حدث خطأ في الصف :row. :رسالة,Hubo un error en la fila: fila. :mensaje
+appLAppName,AdRadio,एडरेडियो,راديو إعلاني,AnuncioRadio
+appLProgramSchedule,Program Schedule,कार्यक्रम सूची,جدول برنامج,Horario del programa
+appLNotifications,Notifications,सूचनाएं,إشعارات,Notificaciones
+appLLiveOnYoutube,LIVE ON YOUTUBE,यूट्यूब पर लाइव,مباشر على اليوتيوب,EN VIVO EN YOUTUBE
+appLShowTime,Show Time,शो टाइम,موعد العرض,Tiempo de la funcion
+appLNext,Next,अगला,التالي,Próximo
+appLShow,Show,दिखाओ,يعرض,Espectáculo
+appLVideoPlaylist,Video Playlist,वीडियो प्लेलिस्ट,قائمة تشغيل الفيديو,Lista de reproducción de vídeos
+appLViewAll,View All,सभी को देखें,عرض الكل,Ver todo
+appLLiveText,LIVE,रहना,يعيش,VIVIR
+appLOfflineText,OFFLINE,ऑफलाइन,غير متصل على الانترنت,DESCONECTADO
+appLNewsfeed,Newsfeed,समाचार फ़ीड,ملف الأخبار,Noticias
+appLLiveStreaming,Live Streaming,सीधा आ रहा है,بث مباشر,Transmisión en vivo
+appLShowSchedule,Show Schedule,शेड्यूल दिखाएँ,عرض الجدول الزمني,Mostrar horario
+appLUpdateProfile,Update Profile,प्रोफ़ाइल अपडेट करें,تحديث الملف,Actualización del perfil
+appLGallery,Gallery,गैलरी,صالة عرض,Galería
+appLTeam,Team,टीम,فريق,Equipo
+appLBlog,Blog,ब्लॉग,مدونة,Blog
+appLLanguage,Language,भाषा,لغة,Idioma
+appLChangePassword,Change Password,पासवर्ड बदलें,تغيير كلمة المرور,Cambiar la contraseña
+appLHelpCenter,Help Center,सहायता केंद्र,مركز المساعدة,Centro de ayuda
+appLPrivacyAndPolicy,Privacy & Policy,गोपनीयता नीति,سياسة الخصوصية,Política de privacidad
+appLAboutUs,About Us,हमारे बारे में,معلومات عنا,Sobre nosotros
+appLLogout,Logout,लॉग आउट,تسجيل خروج,Cerrar sesión
+appLLogoutAlert,Logout ?,लॉग आउट ?,تسجيل خروج ؟,Cerrar sesión ?
+appLAreYouSure,Are you sure about Logging out of the system? Then click Okay button,क्या आप सिस्टम से लॉग आउट करने के बारे में निश्चित हैं? फिर ओके बटन पर क्लिक करें,"هل أنت متأكد من تسجيل الخروج من النظام؟ ثم انقر فوق الزر ""موافق"".",¿Está seguro de cerrar sesión en el sistema? Luego haga clic en el botón Aceptar
+appLConst cancel,Cancel,रद्द करना,يلغي,Cancelar
+appLEnterCountry,Enter Country,देश दर्ज करें,أدخل البلد,Ingrese el país
+appLEnterCity,Enter City,शहर दर्ज करें,أدخل المدينة,Ingrese la ciudad
+appLEnterState,Enter State,राज्य दर्ज करें,إدخال الدولة,Ingresar estado
+appLFromGallery,From Gallery,गैलरी से,من المعرض,De la galería
+appLFromCamera,From Camera,कैमरे से,من الكاميرا,Desde la cámara
+appLRegistrationTitle,Register for an Account Today,एक खाता के लिए आज ही पंजीकरण करें,سجل للحصول على حساب اليوم,Regístrese para obtener una cuenta hoy
+appLRegistrationSubtitle,"Become a part of our community by registering for an account today. Enjoy a range of benefits and features tailored to meet your needs. Our registration page makes it easy to create your account, providing a seamless and user-friendly experience.","आज ही एक खाते के लिए पंजीकरण करके हमारे समुदाय का हिस्सा बनें। अपनी आवश्यकताओं को पूरा करने के लिए तैयार किए गए अनेक लाभों और सुविधाओं का आनंद लें। हमारा पंजीकरण पृष्ठ एक सहज और उपयोगकर्ता-अनुकूल अनुभव प्रदान करते हुए, आपका खाता बनाना आसान बनाता है।",كن جزءًا من مجتمعنا من خلال التسجيل للحصول على حساب اليوم. استمتع بمجموعة من المزايا والميزات المصممة خصيصًا لتلبية احتياجاتك. تسهل صفحة التسجيل الخاصة بنا إنشاء حسابك، مما يوفر تجربة سلسة وسهلة الاستخدام.,"Conviértase en parte de nuestra comunidad registrándose para obtener una cuenta hoy. Disfrute de una variedad de beneficios y características diseñadas para satisfacer sus necesidades. Nuestra página de registro facilita la creación de su cuenta, brindando una experiencia fluida y fácil de usar."
+appLEnterName,Enter Name,नाम दर्ज करें,أدخل الاسم,Ingrese su nombre
+appLIHaveAgreedWith,I have agreed with,मैं इससे सहमत हूं,لقد اتفقت مع,he estado de acuerdo con
+appLTermsOfUse,Terms Of Use & Privacy Policy,उपयोग की शर्ते प्राइवेसि पॉलिसी,شروط الاستخدام وسياسة الخصوصية,Términos de uso y política de privacidad
+appLAlreadyHaveAnAccount,Already have an account?,क्या आपके पास पहले से एक खाता मौजूद है?,هل لديك حساب؟,¿Ya tienes una cuenta?
+appLPleaseAcceptTermsAndConditions,Please Accept Terms And Conditions,कृपया नियम एवं शर्तें स्वीकार करें,يرجى قبول الشروط والأحكام,Por favor acepte los términos y condiciones
+appLLoginNow,Login Now,अभी लॉगिन करें,تسجيل الدخول الآن,Inicia sesión ahora
+appLEnterNewPassword,Enter New Password,नया पासवर्ड दर्ज करें,أدخل كلمة المرور الجديدة,Ingrese nueva clave
+appLEnterConfirmPassword,Enter Confirm Password,पासवर्ड की पुष्टि करें दर्ज करें,أدخل تأكيد كلمة المرور,Ingrese Confirmar Contraseña
+appLResetPasswordSubtitle,Now you are able to reset your passwrod. Please reset your password and try again.,अब आप अपना पासवर्ड रीसेट करने में सक्षम हैं। कृपया अपना पासवर्ड रीसेट करें और पुनः प्रयास करें।,أنت الآن قادر على إعادة تعيين كلمة المرور الخاصة بك. يرجى إعادة تعيين كلمة المرور الخاصة بك والمحاولة مرة أخرى.,Ahora puedes restablecer tu contraseña. Restablezca su contraseña e inténtelo de nuevo.
+appLCongratulations,Congratulations,बधाई हो,تهانينا,Felicidades
+appLLoginInformation,Log in and Stay Connected,लॉग इन करें और जुड़े रहें,تسجيل الدخول والبقاء على اتصال,Inicie sesión y manténgase conectado
+appLLoginSubtitle,"Our secure login process ensures the confidentiality of your information. Log in today and stay connected to your music station, anytime and anywhere.",हमारी सुरक्षित लॉगिन प्रक्रिया आपकी जानकारी की गोपनीयता सुनिश्चित करती है। आज ही लॉग इन करें और किसी भी समय और कहीं भी अपने संगीत स्टेशन से जुड़े रहें।,تضمن عملية تسجيل الدخول الآمنة لدينا سرية معلوماتك. قم بتسجيل الدخول اليوم وابق على اتصال بمحطة الموسيقى الخاصة بك، في أي وقت وفي أي مكان.,"Nuestro proceso de inicio de sesión seguro garantiza la confidencialidad de su información. Inicie sesión hoy y manténgase conectado a su estación de música, en cualquier momento y en cualquier lugar."
+appLEnterEmailAddress,Enter Email Address,ईमेल पता दर्ज करें,أدخل عنوان البريد الالكتروني,Introducir la dirección de correo electrónico
+appLEnterPassword,Enter Password,पास वर्ड दर्ज करें,أدخل كلمة المرور,Introducir la contraseña
+appLForgotPassword,Forgot Password?,पासवर्ड भूल गए?,هل نسيت كلمة السر؟,¿Has olvidado tu contraseña?
+appLDoNotHaveAnAccount,Dont have an account?,कोई खाता नहीं है?,ليس لديك حساب؟,¿No tienes una cuenta?
+appLForgotPasswordSubtitle,Take control of your account by resetting your password. Our password recovery page guides you through the necessary steps to securely reset your password.,अपना पासवर्ड रीसेट करके अपने खाते पर नियंत्रण रखें। हमारा पासवर्ड पुनर्प्राप्ति पृष्ठ आपका पासवर्ड सुरक्षित रूप से रीसेट करने के लिए आवश्यक चरणों में आपका मार्गदर्शन करता है।,السيطرة على حسابك عن طريق إعادة تعيين كلمة المرور الخاصة بك. ترشدك صفحة استعادة كلمة المرور الخاصة بنا إلى الخطوات اللازمة لإعادة تعيين كلمة المرور الخاصة بك بشكل آمن.,Tome el control de su cuenta restableciendo su contraseña. Nuestra página de recuperación de contraseña lo guía a través de los pasos necesarios para restablecer su contraseña de forma segura.
+appLContinueAsGuestUser,Continue as a Guest User,अतिथि उपयोगकर्ता के रूप में जारी रखें,الاستمرار كمستخدم ضيف,Continuar como usuario invitado
+appLOTPVerificationSubtitle,We sent a 6-digit code to your email. Please check your mail inbox or spam.,हमने आपके ईमेल पर 6 अंकों का कोड भेजा है। कृपया अपना मेल इनबॉक्स या स्पैम जांचें।,لقد أرسلنا رمزًا مكونًا من 6 أرقام إلى بريدك الإلكتروني. يرجى التحقق من صندوق البريد الوارد أو البريد العشوائي.,Le enviamos un código de 6 dígitos a su correo electrónico. Por favor revisa tu bandeja de entrada de correo o spam.
+appLPleaseFillOutTheField,Please Fill Out The Field,कृपया फ़ील्ड भरें,يرجى ملء الحقل,Por favor complete el campo
+appLOkay,Okay,ठीक है,تمام,Bueno
+appLBack,Back,पीछे,خلف,Atrás
+appLLogin,Login,लॉग इन करें,تسجيل الدخول,Acceso
+appLRegister,Register,पंजीकरण करवाना,يسجل,Registro
+appLRegisterNow,Register Now,अभी पंजीकरण करें,سجل الان,Regístrate ahora
+appLPassword,Password,पासवर्ड,كلمة المرور,Contraseña
+appLEmailAddress,Email Address,मेल पता,عنوان البريد الإلكتروني,Dirección de correo electrónico
+appLSubmit,Submit,जमा करना,يُقدِّم,Entregar
+appLOTPVerification,OTP Verification,ओटीपी सत्यापन,التحقق من OTP,Verificación OTP
+appLResend,Resend,पुन: भेजें,إعادة إرسال,Reenviar
+appLNewPassword,New Password,नया पासवर्ड,كلمة المرور الجديدة,Nueva contraseña
+appLConfirmPassword,Confirm Password,पासवर्ड की पुष्टि कीजिये,تأكيد كلمة المرور,confirmar Contraseña
+appLEnter,Enter,प्रवेश करना,يدخل,Ingresar
+appLResetPassword,Reset Password,पासवर्ड रीसेट,إعادة تعيين كلمة المرور,Restablecer la contraseña
+appLFirstName,First Name,पहला नाम,الاسم الأول,Nombre de pila
+appLLastName,Last Name,उपनाम,اسم العائلة,Apellido
+appLCountry,Country,देश,دولة,País
+appLState,State,राज्य,ولاية,Estado
+appLCity,City,शहर,مدينة,Ciudad
+appLZipCode,Zip Code,ज़िप कोड,الرمز البريدي,Código postal
+appLOldPassword,Old Password,पुराना पासवर्ड,كلمة المرور القديمة,Contraseña anterior
+appLNoDataFound,No Notification Found,कोई सूचना नहीं मिली,لم يتم العثور على أي إشعار,No se encontró ninguna notificación
+appLCancel,Cancel,रद्द करना,يلغي,Cancelar
+appLAlert,Alert,चेतावनी,يُحذًِر,Alerta
+appLDismiss,Dismiss,नकार देना,رفض,Despedir
+appLSuccess,Success,सफलता,نجاح,Éxito
+Enable,Enable,सक्षम,يُمكَِن,Permitir
+Disable,Disable,अक्षम करना,إبطال,Desactivar
+Activated,Activated,सक्रिय,مفعل,Activado
+Deactivated,Deactivated,निष्क्रिय,معطل,Desactivado
+Newsletter,Newsletter,समाचार पत्रिका,النشرة الإخبارية,Boletin informativo
+Download The AdRadio App Today,Download The AdRadio App Today,आज ही AdRadio ऐप डाउनलोड करें,قم بتنزيل تطبيق AdRadio اليوم,Descargue la aplicación AdRadio hoy
+Are you sure to,Are you sure to,क्या आप निश्चित हैं,هل أنت متأكد من ذلك,¿Estás seguro de
+Remove,Remove,निकालना,يزيل,Eliminar
+Are you sure to delete ?,Are you sure to delete ?,क्या वाकई हटाना है ?,هل انت متأكد من الحذف ؟,¿Estás seguro de eliminar?
+Your account deleted successfully!,Your account deleted successfully!,आपका खाता सफलतापूर्वक हटा दिया गया!,تم حذف حسابك بنجاح!,¡Tu cuenta se eliminó exitosamente!
+Delete,Delete,मिटाना,يمسح,Borrar
+Are you sure to delete your account?,Are you sure to delete your account?,क्या आप निश्चित रूप से अपना खाता हटाना चाहते हैं?,هل أنت متأكد من حذف حسابك؟,¿Estás seguro de eliminar tu cuenta?
+If you do not think you will use,If you do not think you will use,अगर आपको नहीं लगता तो आप इस्तेमाल करेंगे,إذا كنت لا تعتقد أنك سوف تستخدم,Si no crees que lo usarás
+"again and like your account deleted. Keep in mind you will not be able to reactivate your account or retrieve any of the content or information you have added. If you would still like your account deleted, click “Delete Account”.?","again and like your account deleted. Keep in mind you will not be able to reactivate your account or retrieve any of the content or information you have added. If you would still like your account deleted, click “Delete Account”.?","फिर से और जैसे आपका खाता हटा दिया गया है। ध्यान रखें कि आप अपने खाते को पुनः सक्रिय नहीं कर पाएंगे या आपके द्वारा जोड़ी गई किसी भी सामग्री या जानकारी को पुनः प्राप्त नहीं कर पाएंगे। यदि आप अभी भी अपना खाता हटाना चाहते हैं, तो ""खाता हटाएं"" पर क्लिक करें।","مرة أخرى ومثل حذف حسابك. ضع في اعتبارك أنك لن تتمكن من إعادة تنشيط حسابك أو استرداد أي من المحتوى أو المعلومات التي أضفتها. إذا كنت لا تزال ترغب في حذف حسابك، فانقر فوق ""حذف الحساب"".","nuevamente y dale me gusta a tu cuenta eliminada. Tenga en cuenta que no podrá reactivar su cuenta ni recuperar el contenido o la información que haya agregado. Si aún desea eliminar su cuenta, haga clic en ""Eliminar cuenta""."
+appLDeleteAlert,Do you want to delete your account?,क्या आप अपना खाता हटाना चाहते हैं?,هل تريد حذف حسابك؟,¿Quieres eliminar tu cuenta?
+appLDeleteProfile ,Delete Profile,प्रोफ़ाइल हटाएं,حذف الملف الشخصي,Borrar perfil
